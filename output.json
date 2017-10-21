@@ -1,0 +1,2068 @@
+{
+    "version": "0.94", 
+    "list": {
+        "teaser": {
+            "$text": "The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health & Science podcast."
+        }, 
+        "miniTeaser": {}, 
+        "link": [
+            {
+                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                "type": "api"
+            }, 
+            {
+                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                "type": "html"
+            }
+        ], 
+        "story": [
+            {
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "show": [
+                    {
+                        "segNum": {
+                            "$text": "9"
+                        }, 
+                        "program": {
+                            "code": "WESAT", 
+                            "$text": "Weekend Edition Saturday", 
+                            "id": "7"
+                        }, 
+                        "showDate": {
+                            "$text": "Sat, 21 Oct 2017 08:00:00 -0400"
+                        }
+                    }
+                ], 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "At the end of every summer, scientist Li Zhongqin takes his seasonal hike near the top of a glacier in the Tianshan mountains in China's far northwestern region of Xinjiang."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Li scrambles over a frozen ridge and heads toward a lone pole wedged in the ice. Clouds emerge from a peak above and quickly blow past. He stops to catch his breath. He is at 14,000 feet. The snow is thick. The air is thin."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "\"This is called a sight rod,\" he says, grasping the pole. \"We come up here each month to check it, to see how fast the glacier's melting. Each year, the glacier is 15 feet thinner.\""
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "Li, who heads the Tianshan Mountains Glaciological Station of the Chinese Academy of Sciences, points to a valley beyond a valley of boulders below to another glacier in the distance. \"Twenty years ago, when I was a young scientist, these two glaciers were connected,\" he says. \"But now, look: They're completely separate. Things are changing very, very quickly.\""
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Xinjiang, a land of mountains, forests and deserts, is four times the size of California and is home to 20,000 glaciers \u2014 nearly half of all the glaciers in China. Since the 1950s, all of Xinjiang's glaciers have retreated by between 21 percent to 27 percent."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "In the past 50 years, says Li, the average global temperature has risen by 1 degree Celsius (1.8 degrees Fahrenheit). As a result, these glaciers \u2014 split from the original Tianshan No. 1 glacier into No. 1 East and No. 1 West \u2014 are retreating by around 30 feet each year."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "Li calls out to scientists hiking nearly 1,000 feet above. In their bright parkas, they look like neon-colored ants. They call back, their voices bouncing off an ice and stone amphitheater that cradles the eastern glacier."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "Scientists are the only people allowed here. The government has banned tourism on the glacier and shut down factories in the town below, laying off 7,000 workers to try to lessen the impact of pollution."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "But local sources of pollution account for just 30 percent of the damage to glaciers, says Li. The other 70 percent is caused by global carbon emissions that have warmed the entire planet."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "The central goal of the 2015 Paris Agreement on climate change \u2014 which the Trump administration has promised to pull the U.S. out of, but to which China is still a party \u2014 is to limit the rise in global average temperature to 2 degrees Celsius (3.6 degrees Fahrenheit). Tianshan is one of those rare places where the impact of climate change policy can be measured and seen."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "\"If every country sticks to the emissions reductions in the Paris Agreement, these two glaciers will be around for another hundred years,\" says Li. \"If not, then temperatures will continue to rise, and the glacier we're walking on? It'll be gone in 50 years.\""
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "And that, says Li, is a problem for this entire region."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "These glaciers are the source of the Urumqi River, which provides water for half the city of Urumqi, the largest in the region and home to nearly 4 million people."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "But that is not all that is at risk."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "\"You see that fog coming off the surface?\" asks Li, pointing to the top of the glacier. \"This glacier creates clouds, which in turn creates rain and snow elsewhere. Without this glacier, this region will start to dry up.\""
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "Two hundred miles away, at the foot of the mountain range, conditions couldn't be more different. At a grape orchard near the city of Turpan, it is 70 degrees warmer. This city sits on the edge of the Taklamakan Desert and is considered the hottest place in China \u2014 and the lowest, at 500 feet below sea level."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "This area gets, on average, half an inch of rain per year. But it's an agricultural powerhouse. Nearly all of China's grapes are grown in this valley. The water this region depends on arrives in the form of snowmelt from faraway glaciers, flowing here through thousands of miles of underground tunnels called karez, an ancient irrigation system built 2,000 years ago. Turpan's karez wells are considered one of the great engineering feats of ancient China."
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Down a hole in the parched, yellow earth, cool water from the mountains flows through the karez beneath the vineyard of Magcorjan Abdurehim. The farmer stands in the hot sun, worried."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "\"Thirty years ago, we had 182 'karez' in my town,\" he says in Uighur, the region's dominant language. \"Now, only 64 of them have water. Each year, several of them run dry.\""
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "There used to be nearly 2,000 working karez throughout this region, but that number has shrunk to less than a couple hundred. Melting glaciers in the mountains above Turpan have meant more water flowing into the region, but that has also led to a boom in industrial farms and oil companies competing for water in the karez. The ancient irrigation system is quickly running dry."
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "Abdurehim shakes his head at the whole affair."
+                        }, 
+                        {
+                            "num": "22", 
+                            "$text": "\"Water means life. We can't live without it. I'm very worried we're going to run out of it in my lifetime.\""
+                        }, 
+                        {
+                            "num": "23", 
+                            "$text": "The weather isn't helping. In July, the temperature here reached a record 119 degrees. Higher temperatures mean fewer grapes, he says."
+                        }, 
+                        {
+                            "num": "24", 
+                            "$text": "It also means fewer glaciers."
+                        }, 
+                        {
+                            "num": "25", 
+                            "$text": "At the rate global temperatures are rising, some 55 percent of all the glaciers in Xinjiang \u2014 nearly 11,000 \u2014 will be gone within 50 years."
+                        }, 
+                        {
+                            "num": "26", 
+                            "$text": "\"Even if global temperatures stop rising, this glacier will continue to melt,\" says scientist Li, atop the Tianshan No. 1 East glacier. \"So, no, it's impossible to save it.\""
+                        }, 
+                        {
+                            "num": "27", 
+                            "$text": "Li laughs, but it's a laugh that, in Chinese, is a sign of anxiety and defeat. As a glaciologist, Li says his job is changing as quickly as the glaciers themselves. Now, he says, he and other scientists are studying how to slow the melting \u2014 and how to prepare this region for a much drier and warmer future."
+                        }, 
+                        {
+                            "num": "28", 
+                            "$text": "Yuhan Xu contributed research to this story. [Copyright 2017 NPR]"
+                        }
+                    ]
+                }, 
+                "storyDate": {
+                    "$text": "Sat, 21 Oct 2017 06:39:00 -0400"
+                }, 
+                "keywords": {}, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "At the end of every summer, scientist Li Zhongqin takes his seasonal hike near the top of a glacier in the Tianshan mountains in China's far northwestern region of Xinjiang."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Li scrambles over a frozen ridge and heads toward a lone pole wedged in the ice. Clouds emerge from a peak above and quickly blow past. He stops to catch his breath. He is at 14,000 feet. The snow is thick. The air is thin."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "\"This is called a sight rod,\" he says, grasping the pole. \"We come up here each month to check it, to see how fast the glacier's melting. Each year, the glacier is 15 feet thinner.\""
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "Li, who heads the Tianshan Mountains Glaciological Station of the Chinese Academy of Sciences, points to a valley beyond a valley of boulders below to another glacier in the distance. \"Twenty years ago, when I was a young scientist, these two glaciers were connected,\" he says. \"But now, look: They're completely separate. Things are changing very, very quickly.\""
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Xinjiang, a land of mountains, forests and deserts, is four times the size of California and is home to 20,000 glaciers \u2014 nearly half of all the glaciers in China. Since the 1950s, all of Xinjiang's glaciers have retreated by between 21 percent to 27 percent."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "In the past 50 years, says Li, the average global temperature has risen by 1 degree Celsius (1.8 degrees Fahrenheit). As a result, these glaciers \u2014 split from the original Tianshan No. 1 glacier into No. 1 East and No. 1 West \u2014 are retreating by around 30 feet each year."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "Li calls out to scientists hiking nearly 1,000 feet above. In their bright parkas, they look like neon-colored ants. They call back, their voices bouncing off an ice and stone amphitheater that cradles the eastern glacier."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "Scientists are the only people allowed here. The government has banned tourism on the glacier and shut down factories in the town below, laying off 7,000 workers to try to lessen the impact of pollution."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "But local sources of pollution account for just 30 percent of the damage to glaciers, says Li. The other 70 percent is caused by global carbon emissions that have warmed the entire planet."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "The central goal of the 2015 Paris Agreement on climate change \u2014 which the Trump administration has promised to pull the U.S. out of, but to which China is still a party \u2014 is to limit the rise in global average temperature to 2 degrees Celsius (3.6 degrees Fahrenheit). Tianshan is one of those rare places where the impact of climate change policy can be measured and seen."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "\"If every country sticks to the emissions reductions in the Paris Agreement, these two glaciers will be around for another hundred years,\" says Li. \"If not, then temperatures will continue to rise, and the glacier we're walking on? It'll be gone in 50 years.\""
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "And that, says Li, is a problem for this entire region."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "These glaciers are the source of the Urumqi River, which provides water for half the city of Urumqi, the largest in the region and home to nearly 4 million people."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "But that is not all that is at risk."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "\"You see that fog coming off the surface?\" asks Li, pointing to the top of the glacier. \"This glacier creates clouds, which in turn creates rain and snow elsewhere. Without this glacier, this region will start to dry up.\""
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "Two hundred miles away, at the foot of the mountain range, conditions couldn't be more different. At a grape orchard near the city of Turpan, it is 70 degrees warmer. This city sits on the edge of the Taklamakan Desert and is considered the hottest place in China \u2014 and the lowest, at 500 feet below sea level."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "This area gets, on average, half an inch of rain per year. But it's an agricultural powerhouse. Nearly all of China's grapes are grown in this valley. The water this region depends on arrives in the form of snowmelt from faraway glaciers, flowing here through thousands of miles of underground tunnels called <em>karez</em>, an ancient irrigation system built 2,000 years ago. Turpan's <em>karez </em>wells are considered <a href=\"http://whc.unesco.org/en/tentativelists/5347/\">one of the great engineering feats of ancient China.</a>"
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Down a hole in the parched, yellow earth, cool water from the mountains flows through the <em>karez </em>beneath the vineyard of Magcorjan Abdurehim. The farmer stands in the hot sun, worried."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "\"Thirty years ago, we had 182 'karez' in my town,\" he says in Uighur, the region's dominant language. \"Now, only 64 of them have water. Each year, several of them run dry.\""
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "There used to be nearly 2,000 working <em>karez</em> throughout this region, but that number has shrunk to less than a couple hundred. Melting glaciers in the mountains above Turpan have meant more water flowing into the region, but that has also led to a boom in industrial farms and oil companies competing for water in the karez. The ancient irrigation system is quickly running dry."
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "Abdurehim shakes his head at the whole affair."
+                        }, 
+                        {
+                            "num": "22", 
+                            "$text": "\"Water means life. We can't live without it. I'm very worried we're going to run out of it in my lifetime.\""
+                        }, 
+                        {
+                            "num": "23", 
+                            "$text": "The weather isn't helping. In July, the temperature here reached a record 119 degrees. Higher temperatures mean fewer grapes, he says."
+                        }, 
+                        {
+                            "num": "24", 
+                            "$text": "It also means fewer glaciers."
+                        }, 
+                        {
+                            "num": "25", 
+                            "$text": "At the rate global temperatures are rising, some 55 percent of all the glaciers in Xinjiang \u2014 nearly 11,000 \u2014 will be gone within 50 years."
+                        }, 
+                        {
+                            "num": "26", 
+                            "$text": "\"Even if global temperatures stop rising, this glacier will continue to melt,\" says scientist Li, atop the Tianshan No. 1 East glacier. \"So, no, it's impossible to save it.\""
+                        }, 
+                        {
+                            "num": "27", 
+                            "$text": "Li laughs, but it's a laugh that, in Chinese, is a sign of anxiety and defeat. As a glaciologist, Li says his job is changing as quickly as the glaciers themselves. Now, he says, he and other scientists are studying how to slow the melting \u2014 and how to prepare this region for a much drier and warmer future."
+                        }, 
+                        {
+                            "num": "28", 
+                            "$text": "<em>Yuhan Xu contributed research to this story.</em>  <div class=\"fullattribution\">Copyright 2017 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=%27Impossible+To+Save%27%3A+Scientists+Are+Watching+China%27s+Glaciers+Disappear&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "554271726", 
+                "byline": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/493268904/rob-schmitz?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=493268904&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "id": "554272088", 
+                        "name": {
+                            "personId": "493268904", 
+                            "$text": "Rob Schmitz"
+                        }
+                    }
+                ], 
+                "pubDate": {
+                    "$text": "Sat, 21 Oct 2017 12:20:00 -0400"
+                }, 
+                "title": {
+                    "$text": "'Impossible To Save': Scientists Are Watching China's Glaciers Disappear"
+                }, 
+                "image": [
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/05/6_slide-692800d0b4b8adace3533dd3f704c9a0ebda0ae1.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/05/6_slide-692800d0b4b8adace3533dd3f704c9a0ebda0ae1.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Rob Schmitz"
+                        }, 
+                        "title": {
+                            "$text": "The Tianshan No. 1 glacier is melting fast, receding by at least 30 feet each year. Scientists warn that the glacier \u2014 the source of the Urumqi River, which more than 4 million people depend on \u2014 may disappear in the next 50 years."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/6-f57d3b3321005c9c6aa1555ecf048668cd4f678b.jpg", 
+                                "type": "standard", 
+                                "width": "2998", 
+                                "height": "2248"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/6_sq-3f0bb137947b141bbf4fee16b6059cfc52ba475c.jpg", 
+                                "type": "square", 
+                                "width": "2248", 
+                                "height": "2248"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/6_wide-dc29470400792899b1286103d3a97acc4f567f69.jpg", 
+                                "type": "wide", 
+                                "width": "3000", 
+                                "height": "1687"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/6_slide-692800d0b4b8adace3533dd3f704c9a0ebda0ae1.jpg", 
+                                "type": "enlargement", 
+                                "width": "3000", 
+                                "height": "1999"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/6_slide-692800d0b4b8adace3533dd3f704c9a0ebda0ae1.jpg", 
+                                "type": "slide", 
+                                "width": "3000", 
+                                "primary": "true", 
+                                "height": "1999"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "The Tianshan No. 1 glacier is melting fast, receding by at least 30 feet each year. Scientists warn that the glacier \u2014 the source of the Urumqi River, which more than 4 million people depend on \u2014 may disappear in the next 50 years."
+                        }, 
+                        "type": "primary", 
+                        "id": "555850722"
+                    }, 
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/05/8_slide-478e7936767c6cea913a0916369d1403fc7bc9ee.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/05/8_slide-478e7936767c6cea913a0916369d1403fc7bc9ee.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Rob Schmitz"
+                        }, 
+                        "title": {
+                            "$text": "Scientist Li Zhongqin has studied the glaciers of Xinjiang for most of his life. He says at the current rate of global warming, the glacier he studies most will be gone within 50 years."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/8-b1dd41cd95bf9e799ab0e3f69d2707fbccb89e05.jpg", 
+                                "type": "standard", 
+                                "width": "2998", 
+                                "height": "2248"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/8_sq-dd5d991ca236f6433531e0fe20e7d1b1b19bed14.jpg", 
+                                "type": "square", 
+                                "width": "2248", 
+                                "height": "2248"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/8_wide-50b4411b17a3d826fd2072e598107147fbdbb6ce.jpg", 
+                                "type": "wide", 
+                                "width": "3000", 
+                                "height": "1687"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/8_slide-478e7936767c6cea913a0916369d1403fc7bc9ee.jpg", 
+                                "type": "enlargement", 
+                                "width": "3000", 
+                                "height": "1999"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/8_slide-478e7936767c6cea913a0916369d1403fc7bc9ee.jpg", 
+                                "type": "slide", 
+                                "width": "3000", 
+                                "primary": "true", 
+                                "height": "1999"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "Scientist Li Zhongqin has studied the glaciers of Xinjiang for most of his life. He says at the current rate of global warming, the glacier he studies most will be gone within 50 years."
+                        }, 
+                        "type": "standard", 
+                        "id": "555850920"
+                    }, 
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/05/4_slide-041f6836b59125bf3bd789baf3e5772444431d0a.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/05/4_slide-041f6836b59125bf3bd789baf3e5772444431d0a.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Rob Schmitz"
+                        }, 
+                        "title": {
+                            "$text": "Turpan is home to Gaochang, an ancient city that lies in one of the hottest deserts in the world."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/4-6ff81818ca7636ce97f553a67ad87fe614f7dbd4.jpg", 
+                                "type": "standard", 
+                                "width": "2998", 
+                                "height": "2248"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/4_sq-67a6b8506be7c9ea5f2bee74eae3aabbe87fc661.jpg", 
+                                "type": "square", 
+                                "width": "2248", 
+                                "height": "2248"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/4_wide-6da54a0af4f30d44c68ca43459ad2ef6b14095f7.jpg", 
+                                "type": "wide", 
+                                "width": "3000", 
+                                "height": "1687"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/4_slide-041f6836b59125bf3bd789baf3e5772444431d0a.jpg", 
+                                "type": "enlargement", 
+                                "width": "3000", 
+                                "height": "1999"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/4_slide-041f6836b59125bf3bd789baf3e5772444431d0a.jpg", 
+                                "type": "slide", 
+                                "width": "3000", 
+                                "primary": "true", 
+                                "height": "1999"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "Turpan is home to Gaochang, an ancient city that lies in one of the hottest deserts in the world."
+                        }, 
+                        "type": "standard", 
+                        "id": "555851508"
+                    }, 
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/05/1_sq-f29431c49aad1c5c7143f7107f1ddcde2a16cff0.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/05/1_sq-f29431c49aad1c5c7143f7107f1ddcde2a16cff0.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Rob Schmitz"
+                        }, 
+                        "title": {
+                            "$text": "A karez in Turpan is part of a 1,000-mile network of ancient water tunnels."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/1-b451f4e06dc8002236705e267c4c54dc5b17d5c9.jpg", 
+                                "type": "standard", 
+                                "width": "2448", 
+                                "height": "1836"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/1_sq-f29431c49aad1c5c7143f7107f1ddcde2a16cff0.jpg", 
+                                "type": "square", 
+                                "width": "2448", 
+                                "primary": "true", 
+                                "height": "2448"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/1_wide-a35d77b43bb8b60c75b811faae63fffa20cb46f3.jpg", 
+                                "type": "wide", 
+                                "width": "2448", 
+                                "height": "1377"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/1_sq-f29431c49aad1c5c7143f7107f1ddcde2a16cff0.jpg", 
+                                "type": "enlargement", 
+                                "width": "2448", 
+                                "height": "2448"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/05/1_slide-0db28e0d4985e2869549c825681c0cf5da875bbf.jpg", 
+                                "type": "slide", 
+                                "width": "2448", 
+                                "height": "1631"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "A <em>karez </em>in Turpan is part of a 1,000-mile network of ancient water tunnels."
+                        }, 
+                        "type": "standard", 
+                        "id": "555851678"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/05/6_sq-3f0bb137947b141bbf4fee16b6059cfc52ba475c.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/05/6_sq-3f0bb137947b141bbf4fee16b6059cfc52ba475c.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "NPR"
+                    }
+                }, 
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/environment/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1025&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1025", 
+                        "title": {
+                            "$text": "Environment"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/weekend-edition-saturday/2017/10/21/559215228/weekend-edition-saturday-for-october-21-2017?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=559215228&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "programEpisode", 
+                        "id": "559215228", 
+                        "title": {
+                            "$text": "Weekend Edition Saturday for October 21, 2017"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/189193009/water?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=189193009&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "189193009", 
+                        "title": {
+                            "$text": "water"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/parallels/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=181572415&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Parallels"
+                        }, 
+                        "type": "blog", 
+                        "id": "181572415", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/156961873/glaciers?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=156961873&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "156961873", 
+                        "title": {
+                            "$text": "glaciers"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/127994355/china?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127994355&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "127994355", 
+                        "title": {
+                            "$text": "China"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/125938077/climate-change?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=125938077&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "125938077", 
+                        "title": {
+                            "$text": "climate change"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/asia/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1125&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1125", 
+                        "title": {
+                            "$text": "Asia"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/environment/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1025&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1025", 
+                        "title": {
+                            "$text": "Environment"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/world/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1004&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1004", 
+                        "title": {
+                            "$text": "World"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1001", 
+                        "title": {
+                            "$text": "News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/weekend-edition-saturday/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=7&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "program", 
+                        "id": "7", 
+                        "title": {
+                            "$text": "Weekend Edition Saturday"
+                        }
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Sat, 21 Oct 2017 13:49:47 -0400"
+                }, 
+                "teaser": {
+                    "$text": "Xinjiang has nearly 20,000 glaciers, half of China's total. They're all receding at a record pace \u2014 and will continue to melt, some scientists warn, even if global temperatures stop rising."
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/parallels/2017/10/21/554271726/impossible-to-save-scientists-are-watching-chinas-glaciers-disappear?ft=nprml&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=554271726&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/2wZNiGc", 
+                        "type": "short"
+                    }
+                ], 
+                "transcript": {
+                    "link": [
+                        {
+                            "$text": "http://www.npr.org/templates/transcript/transcript.php?storyId=554271726&ft=nprml&f=1007", 
+                            "type": "html"
+                        }, 
+                        {
+                            "$text": "http://api.npr.org/transcript?id=554271726&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                            "type": "api"
+                        }
+                    ]
+                }, 
+                "slug": {
+                    "$text": "Parallels"
+                }, 
+                "shortTitle": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ], 
+                "audio": [
+                    {
+                        "rightsHolder": {}, 
+                        "description": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "format": {
+                            "hlsOnDemand": {
+                                "$text": "https://ondemandhls.npr.org/nprhls//npr/wesat/2017/10/20171021_wesat_impossible_to_save_scientists_are_watching_chinas_glaciers_disappear/master.m3u8"
+                            }, 
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=559215339&type=1&mtype=WM&orgId=1&topicId=1025&d=356&p=7&story=554271726&t=progseg&e=559215228&seg=9&ft=nprml&f=1007"
+                            }, 
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/wesat/2017/10/20171021_wesat_impossible_to_save_scientists_are_watching_chinas_glaciers_disappear.mp3"
+                            }, 
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1559215339-2b7502.m3u?orgId=1&topicId=1025&d=356&p=7&story=554271726&t=progseg&e=559215228&seg=9&ft=nprml&f=1007", 
+                                    "type": "m3u"
+                                }
+                            ], 
+                            "mp4": {
+                                "$text": "https://ondemand.npr.org/npr-mp4/npr/wesat/2017/10/20171021_wesat_impossible_to_save_scientists_are_watching_chinas_glaciers_disappear.mp4?orgId=1&topicId=1025&d=356&p=7&story=554271726&t=progseg&e=559215228&seg=9&ft=nprml&f=1007"
+                            }
+                        }, 
+                        "region": {
+                            "$text": "all"
+                        }, 
+                        "title": {
+                            "$text": "Listen to the Story"
+                        }, 
+                        "duration": {
+                            "$text": "356"
+                        }, 
+                        "type": "primary", 
+                        "id": "559215339", 
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }
+                    }
+                ]
+            }, 
+            {
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1001", 
+                        "title": {
+                            "$text": "News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/559120738/orionid-meteors?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=559120738&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "559120738", 
+                        "title": {
+                            "$text": "orionid meteors"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=434975886&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "434975886", 
+                        "title": {
+                            "$text": "NPR Stories For Apple News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thetwo-way/127602405/must-reads/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127602405&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "category", 
+                        "id": "127602405", 
+                        "title": {
+                            "$text": "Must Reads"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thetwo-way/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=103943429&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "The Two-Way"
+                        }, 
+                        "type": "blog", 
+                        "id": "103943429", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/space/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1026&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1026", 
+                        "title": {
+                            "$text": "Space"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }
+                ], 
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "pubDate": {
+                    "$text": "Fri, 20 Oct 2017 19:15:00 -0400"
+                }, 
+                "shortTitle": {}, 
+                "title": {
+                    "$text": "Orionid Meteor Shower Will Peak Overnight, With Best Show Before Dawn"
+                }, 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Fri, 20 Oct 2017 19:17:20 -0400"
+                }, 
+                "storyDate": {
+                    "$text": "Fri, 20 Oct 2017 16:40:52 -0400"
+                }, 
+                "slug": {
+                    "$text": "The Two-Way"
+                }, 
+                "keywords": {}, 
+                "teaser": {
+                    "$text": "Last year, the Orionids were hampered by a bright moon. But this year, there's barely a sliver of moon in the sky, which should allow the remnants of Halley's Comet to shine."
+                }, 
+                "byline": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/348744968/camila-domonoske?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=348744968&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "id": "559094043", 
+                        "name": {
+                            "personId": "348744968", 
+                            "$text": "Camila Domonoske"
+                        }
+                    }
+                ], 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/thetwo-way/2017/10/20/559094041/orionid-meteor-shower-will-peak-overnight-with-best-show-before-dawn?ft=nprml&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=559094041&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/2yvjAxv", 
+                        "type": "short"
+                    }
+                ], 
+                "externalAsset": [
+                    {
+                        "parameters": {}, 
+                        "caption": {}, 
+                        "url": {
+                            "$text": "https://twitter.com/NWSEastern/status/921433736197132288"
+                        }, 
+                        "credit": {}, 
+                        "oEmbed": {
+                            "$text": "921433736197132288"
+                        }, 
+                        "externalId": {
+                            "$text": "921433736197132288"
+                        }, 
+                        "type": "Twitter", 
+                        "id": "559100251"
+                    }
+                ], 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "The Orionid Meteor Shower will reach its peak on Friday night and Saturday morning, with the best viewing shortly before dawn (wherever you are)."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Last year, the annual show was less than spectacular \u2014 a bright gibbous moon hung in the sky for most of the night, stealing the glory from the meteors. "
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "But this year, there's barely a sliver of moon in sight \u2014 the new moon was just on Thursday. And much of America can expect a nearly cloudless sky, to boot."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "NASA says that viewers can expect to see up to 20 meteors an hour during the peak of the shower. If you miss it tonight, you can try again in the wee hours of Sunday morning, and a few stray meteors might still be spotted as late as Nov. 7. "
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Here's some advice on how to watch, from NASA:"
+                        }, 
+                        {
+                            "num": "6"
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"As with observing any meteor shower, get to a dark spot, get comfortable, bring blankets to stay warm, and let your eyes adjust to the dark sky. A cozy lounge chair makes for a great seat, as does simply lying on your back on a blanket, eyes scanning the whole sky. "
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "\"The Orionids are so named as they seem to originate, or radiate, from near the famous constellation Orion. However, they will appear to streak across the entire sky.\""
+                        }, 
+                        {
+                            "num": "9"
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "This meteor shower is caused by debris left behind by Halley's Comet, as Earthsky explains:"
+                        }, 
+                        {
+                            "num": "11"
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "\"The comet last visited Earth in 1986 and will return next in 2061."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "\"As Comet Halley moves through space, it leaves debris in its wake that strikes Earth's atmosphere most fully around October 20-22, every year. The comet is nowhere near, but, around this time every year, Earth is intersecting the comet's orbit.\""
+                        }, 
+                        {
+                            "num": "14"
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "The Orionid meteor shower is not the most prolific of the annual meteor showers (the more-prolific Perseids are more famous for a reason, and the Leonids have provided some of the most stunning shows in history).  "
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "But the fast-moving meteors in the Orionid shower can produce occasional bright fireballs, and can leave \"persistent trains\" lingering briefly in the sky, Earthsky writes.  [Copyright 2017 NPR]"
+                        }
+                    ]
+                }, 
+                "audioRunByDate": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ], 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "The Orionid Meteor Shower will reach its peak on Friday night and Saturday morning, with the best viewing shortly before dawn (wherever you are)."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Last year, the annual show was less than spectacular \u2014 a <a href=\"https://www.space.com/34435-moon-will-obscure-orionid-meteor-shower.html\">bright gibbous moon</a> hung in the sky for most of the night, stealing the glory from the meteors. "
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "But this year, there's barely a sliver of moon in sight \u2014 the new moon was just on Thursday. And much of America can expect a nearly cloudless sky, to boot."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "NASA says that viewers can expect to see up to 20 meteors an hour during the peak of the shower. If you miss it tonight, you can try again in the wee hours of Sunday morning, and a few stray meteors might still be spotted as late as Nov. 7. "
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Here's some advice on how to watch, from NASA:"
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "<blockquote>"
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"As with observing any meteor shower,&nbsp;get to a dark spot, get comfortable, bring blankets to stay warm, and let your eyes adjust to the dark sky.&nbsp;A cozy lounge chair makes for a great seat, as does simply lying on your back on a blanket, eyes scanning the whole sky. "
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "\"The Orionids are so named as they seem to originate, or radiate, from near the famous constellation&nbsp;Orion. However, they will appear to streak across the entire sky.\""
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "</blockquote>"
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "This meteor shower is caused by debris left behind by Halley's Comet, <a href=\"http://earthsky.org/tonight/orionid-meteors-are-debris-from-famous-comet-halley\">as Earthsky explains</a>:"
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "<blockquote>"
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "\"The comet last visited Earth in 1986 and will return next in 2061."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "\"As Comet Halley moves through space, it leaves debris in its wake that strikes Earth's atmosphere most fully around October 20-22, every year. The comet is nowhere near, but, around this time every year, Earth is intersecting the comet's orbit.\""
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "</blockquote>"
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "The Orionid meteor shower is not the most prolific of the annual meteor showers (the more-prolific Perseids are more famous for a reason, and the Leonids have provided some of the most stunning shows in history).  "
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "But the fast-moving meteors in the Orionid shower can produce occasional bright fireballs, and can leave \"persistent trains\" lingering briefly in the sky, Earthsky writes.   <div class=\"fullattribution\">Copyright 2017 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Orionid+Meteor+Shower+Will+Peak+Overnight%2C+With+Best+Show+Before+Dawn&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "559094041"
+            }, 
+            {
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "When the drinking water in Flint, Mich., became contaminated with lead, causing a major public health crisis, 11-year-old Gitanjali Rao took notice."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "\"I had been following the Flint, Michigan, issue for about two years,\" the seventh-grader told ABC News. \"I was appalled by the number of people affected by lead contamination in water.\""
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "She saw her parents testing the water in their own home in Lone Tree, Colo., and was unimpressed by the options, which can be slow, unreliable or both."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "\"I went, 'Well, this is not a reliable process and I've got to do something to change this,' \" Rao told Business Insider."
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Rao tells ABC that while she was doing her weekly perusal of MIT's Materials Science and Engineering website to see \"if there's anything's new,\" she read about new technologies that could detect hazardous substances and decided to see whether they could be adapted to test for lead."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "She pressed local high schools and universities to give her lab time and then hunkered down in the \"science room\" \u2014 outfitted with a big white table \u2014 that she persuaded her engineer parents to create in their home."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "And she set about devising a more efficient solution: a device that could identify lead compounds in water and was portable and relatively inexpensive."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "As she explains at lightning speed in her video submission for the Discovery Education 3M Young Scientist Challenge, her device consists of three parts. There is a disposable cartridge containing chemically treated carbon nanotube arrays, an Arduino-based signal processor with a Bluetooth attachment, and a smartphone app that can display the results."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Here is how it works."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "The carbon nanotubes in the cartridge are sensitive to changes in the flow of electrons. Those tubes are lined with atoms that have an affinity to lead, which adds a measurable resistance to the electron flow."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "When the cartridge is dipped in water that is clean, the electron flow doesn't change and the smartphone app shows that water is safe to drink. But when the cartridge is dipped in contaminated water, the lead in the water reacts to the atoms, causing resistance in the electron flow that is measured by the Arduino processor. The app then shows that the water isn't safe to drink."
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "Rao dubbed the device Tethys, for the Greek goddess of fresh water."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "\"Clean water always tastes good,\" she says at the end of her video. \"The tool allows easy testing at home or by agencies for quick detection and remedial actions. It can be expanded in the future to test for other chemical contaminants in potable water. I hope this helps in a small way to detect and prevent long-term health effects of lead contamination for many of us.\""
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "Her solution was so ingenious that this week, Rao was named \"America's Top Young Scientist\" in the Discovery Education 3M Young Scientist Challenge \u2014 a distinction that comes with a check for $25,000."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "For the past three months, Rao and nine other finalists in the competition had been paired with scientists at 3M who helped them work from a theoretical concept to a physical prototype. Rao was matched with Kathleen Shafer, a research specialist who develops new plastics technologies."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "Rao plans to save some of the prize money for college but use the rest to invest in her device to make it commercially viable."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "\"It's not hyperbole to say she really blew us out of the water,\" Brian Barnhart, a school superintendent in Illinois and one of the judges, told ABC. \"The other nine kids, they were also such amazing kids, so for her to stand out the way she did with a peer group like this is like an exclamation point on top of it.\""
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Rao says that when she grows up, she would like to be a geneticist or epidemiologist. Her lead detection device allowed her to combine both interests, as contaminated water can cause both rashes and birth defects."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "\"I studied a little bit of both of these topics since I was really interested in these fields,\" she told Business Insider, \"and then I came up with this device to help save lives.\" [Copyright 2017 NPR]"
+                        }
+                    ]
+                }, 
+                "storyDate": {
+                    "$text": "Fri, 20 Oct 2017 15:35:49 -0400"
+                }, 
+                "keywords": {}, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "When the drinking water in Flint, Mich., became contaminated with lead, causing a major public health crisis, 11-year-old Gitanjali Rao took notice."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "\"I had been following the Flint, Michigan, issue for about two years,\" the seventh-grader <a href=\"http://abcnews.go.com/Lifestyle/11-year-girl-inspired-flint-water-crisis-creates/story?id=50559884\">told</a> ABC News. \"I was appalled by the number of people affected by lead contamination in water.\""
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "She saw her parents testing the water in their own home in Lone Tree, Colo., and was unimpressed by the options, which can be <a href=\"https://www.usatoday.com/story/news/2016/03/16/testing-assessing-safety-of-drinking-water-lead-contamination/80504058/\">slow, unreliable or both</a>."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "\"I went, 'Well, this is not a reliable process and I've got to do something to change this,' \" Rao <a href=\"http://www.businessinsider.com/winner-of-3m-americas-top-young-scientist-lead-levels-in-water-2017-10\">told</a> <em>Business Insider</em>."
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Rao tells ABC that while she was doing her weekly perusal of MIT's Materials Science and Engineering <a href=\"https://dmse.mit.edu/\">website</a> to see \"if there's anything's new,\" she read about new technologies that could detect hazardous substances and decided to see whether they could be adapted to test for lead."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "She pressed local high schools and universities to give her lab time and then hunkered down in the \"science room\" \u2014 outfitted with a big white table \u2014 that she persuaded her engineer parents to create in their home."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "And she set about devising a more efficient solution: a device that could identify lead compounds in water and was portable and relatively inexpensive."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "As she explains at lightning speed <a href=\"https://www.youtube.com/watch?v=m4WM3arrBgo\">in her video submission</a> for the <a href=\"https://www.youngscientistlab.com/challenge\">Discovery Education 3M Young Scientist Challenge</a>, her device consists of three parts. There is a disposable cartridge containing chemically treated carbon nanotube arrays, an Arduino-based signal processor with a Bluetooth attachment, and a smartphone app that can display the results."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Here is how it works."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "The carbon nanotubes in the cartridge are sensitive to changes in the flow of electrons. Those tubes are lined with atoms that have an affinity to lead, which adds a measurable resistance to the electron flow."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "When the cartridge is dipped in water that is clean, the electron flow doesn't change and the smartphone app shows that water is safe to drink. But when the cartridge is dipped in contaminated water, the lead in the water reacts to the atoms, causing resistance in the electron flow that is measured by the Arduino processor. The app then shows that the water isn't safe to drink."
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "Rao dubbed the device Tethys, for the Greek goddess of fresh water."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "\"Clean water always tastes good,\" she says at the end of her video. \"The tool allows easy testing at home or by agencies for quick detection and remedial actions. It can be expanded in the future to test for other chemical contaminants in potable water. I hope this helps in a small way to detect and prevent long-term health effects of lead contamination for many of us.\""
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "Her solution was so ingenious that this week, Rao <a href=\"https://www.prnewswire.com/news-releases/3m-and-discovery-education-celebrate-10th-anniversary-of-young-scientist-challenge-awards-americas-top-scientist-with-25000-prize-300538793.html\">was named</a> \"America's Top Young Scientist\" in the <a href=\"https://www.youngscientistlab.com/challenge\">Discovery Education 3M Young Scientist Challenge</a> \u2014 a distinction that comes with a check for $25,000."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "For the past three months, Rao and nine other finalists in the competition had been paired with scientists at 3M who helped them work from a theoretical concept to a physical prototype. Rao was matched with <a href=\"https://www.youngscientistlab.com/node/4436\">Kathleen Shafer</a>, a research specialist who develops new plastics technologies."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "Rao plans to save some of the prize money for college but use the rest to invest in her device to make it commercially viable."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "\"It's not hyperbole to say she really blew us out of the water,\" Brian Barnhart, a school superintendent in Illinois and one of the judges, told ABC. \"The other nine kids, they were also such amazing kids, so for her to stand out the way she did with a peer group like this is like an exclamation point on top of it.\""
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Rao <a href=\"https://www.youngscientistlab.com/entry/623\">says </a>that when she grows up, she would like to be a geneticist or epidemiologist. Her lead detection device allowed her to combine both interests, as contaminated water can cause both rashes and birth defects."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "\"I studied a little bit of both of these topics since I was really interested in these fields,\" she told <em>Business Insider,</em> \"and then I came up with this device to help save lives.\"  <div class=\"fullattribution\">Copyright 2017 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Troubled+By+Flint+Water+Crisis%2C+11-Year-Old+Girl+Invents+Lead-Detecting+Device&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "559071028", 
+                "relatedLink": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/2017/04/25/525564206/amid-steep-odds-flint-starts-to-see-bright-spots?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=525564206&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Fighting Steep Odds, Flint Starts To See Bright Spots "
+                        }, 
+                        "type": "internal", 
+                        "id": "559087670"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/goatsandsoda/2017/06/07/527898124/if-you-see-dirty-water-dont-just-gripe-talk-to-the-cloud?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=527898124&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " If You See Dirty Water, Don't Just Gripe. Talk To The Cloud!"
+                        }, 
+                        "type": "internal", 
+                        "id": "559087883"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health-shots/2017/03/28/521644395/study-suggests-childhood-exposure-to-lead-can-blunt-iq-for-decades?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=521644395&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Childhood Exposure To Lead Can Blunt IQ For Decades, Study Suggests "
+                        }, 
+                        "type": "internal", 
+                        "id": "559088006"
+                    }
+                ], 
+                "byline": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/463234136/laurel-wamsley?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=463234136&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "id": "559071030", 
+                        "name": {
+                            "personId": "463234136", 
+                            "$text": "Laurel Wamsley"
+                        }
+                    }
+                ], 
+                "pubDate": {
+                    "$text": "Sat, 21 Oct 2017 16:13:00 -0400"
+                }, 
+                "title": {
+                    "$text": "Troubled By Flint Water Crisis, 11-Year-Old Girl Invents Lead-Detecting Device"
+                }, 
+                "image": [
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2-ea56dacac26101d4f50dfb7b9c17f7f521a3e783.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2-ea56dacac26101d4f50dfb7b9c17f7f521a3e783.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Andy King"
+                        }, 
+                        "title": {
+                            "$text": "Gitanjali Rao, 11, says she was appalled by the drinking water crisis in Flint, Mich. \u2014 so she designed a device to test for lead faster. She was named \"America's Top Young Scientist\" on Tuesday at the 3M Innovation Center in St. Paul, Minn."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2-ea56dacac26101d4f50dfb7b9c17f7f521a3e783.jpg", 
+                                "type": "standard", 
+                                "width": "2622", 
+                                "primary": "true", 
+                                "height": "1966"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2_sq-4346a1d28c602cb03194c6aacb600beb7face56c.jpg", 
+                                "type": "square", 
+                                "width": "1939", 
+                                "height": "1938"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2_wide-2d9aa8746e42607e06a6119c6110fa460bdcc9bf.jpg", 
+                                "type": "wide", 
+                                "width": "2974", 
+                                "height": "1672"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2-ea56dacac26101d4f50dfb7b9c17f7f521a3e783.jpg", 
+                                "type": "enlargement", 
+                                "width": "2622", 
+                                "height": "1966"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "Discovery Education 3M Young Scientist Challenge"
+                        }, 
+                        "caption": {
+                            "$text": "Gitanjali Rao, 11, says she was appalled by the drinking water crisis in Flint, Mich. \u2014 so she designed a device to test for lead faster. She was named \"America's Top Young Scientist\" on Tuesday at the 3M Innovation Center in St. Paul, Minn."
+                        }, 
+                        "type": "primary", 
+                        "id": "559075931"
+                    }, 
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-3-82be8c7f6c115bed132698058a370ba058e1dc7a.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-3-82be8c7f6c115bed132698058a370ba058e1dc7a.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {}, 
+                        "title": {
+                            "$text": "To make her device, Rao pressed local high schools and universities to give her lab time and then hunkered down in the \"science room\" \u2014 outfitted with a big white table \u2014 that she persuaded her engineer parents to create in their home in Lone Tree, Colo."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-3-82be8c7f6c115bed132698058a370ba058e1dc7a.jpg", 
+                                "type": "standard", 
+                                "width": "3810", 
+                                "primary": "true", 
+                                "height": "2857"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-3_sq-3aa47b2f102b9a2bbf0ac9172810c78d851802b4.jpg", 
+                                "type": "square", 
+                                "width": "2814", 
+                                "height": "2814"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-3_wide-c085ac8ed9dc74e536396b51a2eb78458f597044.jpg", 
+                                "type": "wide", 
+                                "width": "4160", 
+                                "height": "2340"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/gitanjali-3-82be8c7f6c115bed132698058a370ba058e1dc7a.jpg", 
+                                "type": "enlargement", 
+                                "width": "3810", 
+                                "height": "2857"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "Bharathi Rao"
+                        }, 
+                        "caption": {
+                            "$text": "To make her device, Rao pressed local high schools and universities to give her lab time and then hunkered down in the \"science room\" \u2014 outfitted with a big white table \u2014 that she persuaded her engineer parents to create in their home in Lone Tree, Colo."
+                        }, 
+                        "type": "standard", 
+                        "id": "559086757"
+                    }
+                ], 
+                "externalAsset": [
+                    {
+                        "parameters": {}, 
+                        "caption": {}, 
+                        "url": {
+                            "$text": "https://www.youtube.com/watch?v=m4WM3arrBgo"
+                        }, 
+                        "credit": {
+                            "$text": "The Discovery Education 3M Young Scientist Challenge"
+                        }, 
+                        "oEmbed": {
+                            "$text": "https://www.youtube.com/oembed?url=https%3A//www.youtube.com/watch%3Fv%3Dm4WM3arrBgo"
+                        }, 
+                        "externalId": {
+                            "$text": "m4WM3arrBgo"
+                        }, 
+                        "type": "YouTube", 
+                        "id": "559072083"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2_sq-4346a1d28c602cb03194c6aacb600beb7face56c.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/20/gitanjali-rao-presentation-2_sq-4346a1d28c602cb03194c6aacb600beb7face56c.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "Discovery Education 3M Young Scientist Challenge"
+                    }
+                }, 
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1001", 
+                        "title": {
+                            "$text": "News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/494064878/flint-michigan?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=494064878&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "494064878", 
+                        "title": {
+                            "$text": "Flint, Michigan"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/470520004/contaminated-water?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=470520004&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "470520004", 
+                        "title": {
+                            "$text": "contaminated water"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=434975886&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "434975886", 
+                        "title": {
+                            "$text": "NPR Stories For Apple News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/146920279/lead?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=146920279&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "146920279", 
+                        "title": {
+                            "$text": "lead"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/129106897/inventions?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=129106897&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "129106897", 
+                        "title": {
+                            "$text": "inventions"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thetwo-way/127602855/america/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127602855&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "category", 
+                        "id": "127602855", 
+                        "title": {
+                            "$text": "America"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thetwo-way/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=103943429&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "The Two-Way"
+                        }, 
+                        "type": "blog", 
+                        "id": "103943429", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1128&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1128", 
+                        "title": {
+                            "$text": "Health"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1091", 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/global-health/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1031&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1031", 
+                        "title": {
+                            "$text": "Global Health"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/environment/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1025&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1025", 
+                        "title": {
+                            "$text": "Environment"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/research-news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1024&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1024", 
+                        "title": {
+                            "$text": "Research News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/technology/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1019&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1019", 
+                        "title": {
+                            "$text": "Technology"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1003", 
+                        "title": {
+                            "$text": "U.S."
+                        }
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Sat, 21 Oct 2017 16:13:49 -0400"
+                }, 
+                "teaser": {
+                    "$text": "The Colorado seventh-grader was unimpressed by the options her parents had to test water in their home. So she created a sensor-based device using chemically treated carbon nanotubes to do it faster."
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/thetwo-way/2017/10/20/559071028/troubled-by-flint-water-crisis-11-year-old-girl-invents-lead-detecting-device?ft=nprml&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=559071028&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/2l3Dhaa", 
+                        "type": "short"
+                    }
+                ], 
+                "slug": {
+                    "$text": "The Two-Way"
+                }, 
+                "shortTitle": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ]
+            }
+        ], 
+        "title": {
+            "$text": "NPR Topics: Science"
+        }
+    }
+}

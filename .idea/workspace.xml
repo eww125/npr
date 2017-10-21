@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f27c4d76-2589-452c-903a-1bc04eebd107" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_http_response_header.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_http_status_code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_parser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npr_3_recent_stories.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pets.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml_parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date_teaser_byline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full_story.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/program_name_url.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npr_3_recent_stories.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,26 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="placekitten.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/placekitten.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_http_status_code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_http_status_code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="get_http_response_header.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_http_response_header.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,8 +30,8 @@
       <file leaf-file-name="xml_parser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xml_parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            <state relative-caret-position="84">
+              <caret line="4" column="9" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -72,14 +49,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="npr_3_recent_stories.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/npr_3_recent_stories.py">
+      <file leaf-file-name="story_titles.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/story_titles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="63">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="full_story.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/full_story.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date_teaser_byline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/date_teaser_byline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="program_name_url.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/program_name_url.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="e#1#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,6 +134,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>byline</find>
+      <find>show</find>
+      <find>program</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -127,6 +155,10 @@
         <option value="$PROJECT_DIR$/json_parser.py" />
         <option value="$PROJECT_DIR$/pets.json" />
         <option value="$PROJECT_DIR$/npr_3_recent_stories.py" />
+        <option value="$PROJECT_DIR$/story_titles.py" />
+        <option value="$PROJECT_DIR$/full_story.py" />
+        <option value="$PROJECT_DIR$/date_teaser_byline.py" />
+        <option value="$PROJECT_DIR$/program_name_url.py" />
       </list>
     </option>
   </component>
@@ -179,8 +211,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.npr_3_recent_stories">
-    <configuration name="get_http_response_header" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.program_name_url">
+    <configuration name="date_teaser_byline" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -192,12 +224,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="npr_api" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_http_response_header.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date_teaser_byline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="get_http_status_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="full_story" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -209,24 +241,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="npr_api" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_http_status_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="json_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="npr_api" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_parser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full_story.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +263,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="xml_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="program_name_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -260,25 +275,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="npr_api" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xml_parser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program_name_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="story_titles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="npr_api" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/story_titles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.get_http_status_code" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_http_response_header" />
-      <item index="2" class="java.lang.String" itemvalue="Python.xml_parser" />
-      <item index="3" class="java.lang.String" itemvalue="Python.json_parser" />
-      <item index="4" class="java.lang.String" itemvalue="Python.npr_3_recent_stories" />
+      <item index="0" class="java.lang.String" itemvalue="Python.npr_3_recent_stories" />
+      <item index="1" class="java.lang.String" itemvalue="Python.story_titles" />
+      <item index="2" class="java.lang.String" itemvalue="Python.full_story" />
+      <item index="3" class="java.lang.String" itemvalue="Python.date_teaser_byline" />
+      <item index="4" class="java.lang.String" itemvalue="Python.program_name_url" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.npr_3_recent_stories" />
-        <item index="1" class="java.lang.String" itemvalue="Python.json_parser" />
-        <item index="2" class="java.lang.String" itemvalue="Python.xml_parser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_http_response_header" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_http_status_code" />
+        <item index="0" class="java.lang.String" itemvalue="Python.program_name_url" />
+        <item index="1" class="java.lang.String" itemvalue="Python.date_teaser_byline" />
+        <item index="2" class="java.lang.String" itemvalue="Python.full_story" />
+        <item index="3" class="java.lang.String" itemvalue="Python.story_titles" />
+        <item index="4" class="java.lang.String" itemvalue="Python.npr_3_recent_stories" />
       </list>
     </recent_temporary>
   </component>
@@ -300,17 +332,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1695279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46191052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46191052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -362,18 +393,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pets.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npr_3_recent_stories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -388,12 +427,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/npr_3_recent_stories.py">
+    <entry file="file://$PROJECT_DIR$/story_titles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full_story.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_teaser_byline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program_name_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#1#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
