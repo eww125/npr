@@ -1717,23 +1717,6 @@
                     {
                         "link": [
                             {
-                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
-                                "type": "html"
-                            }, 
-                            {
-                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
-                                "type": "api"
-                            }
-                        ], 
-                        "type": "topic", 
-                        "id": "1002", 
-                        "title": {
-                            "$text": "Home Page Top Stories"
-                        }
-                    }, 
-                    {
-                        "link": [
-                            {
                                 "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
                                 "type": "html"
                             }, 
@@ -1746,6 +1729,23 @@
                         "id": "191676894", 
                         "title": {
                             "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
                         }
                     }, 
                     {
@@ -2045,6 +2045,2112 @@
                 ], 
                 "slug": {
                     "$text": "The Two-Way"
+                }, 
+                "shortTitle": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ]
+            }, 
+            {
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "Urinary tract infections cause painful urination and are unfortunately widespread. Scientists estimate that somewhere between 40 percent to more than 50 percent of women will get a UTI in their lifetime, and one in four will get a repeat infection. Left untreated, they can lead to kidney problems."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Cranberry juice is a common at-home preventative measure, but the science behind relying on the bitter fruit is pretty mixed. Some research has shown evidence that compounds in cranberries could help prevent bacteria from infecting the urinary tract lining, but other studies concluded that the juice didn't help people with recurring bladder infections."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "But, there may be a simple, old, and drug-free way to reduce these infections: Drink more water \u2014 a lot more water."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "A study presented at IDWeek earlier this month in San Diego, an annual meeting of infectious disease professionals, suggests that drinking more water is pretty effective at reducing bladder infections in women who are prone to them. And it also resulted in doctors issuing 47 percent fewer prescriptions for antibiotics in these women."
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "The research was funded by Danone Research. Danone also sells bottled water, like Evian, but Dr. Thomas Hooton, the lead author of the study and the clinical director of the Division of Infectious Diseases at the University of Miami, says that the study's conclusions are not exclusive to Danone's water."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "The study specifically looked at 140 premenopausal women in Bulgaria with recurring urinary tract infections, defined as more than three in the previous year, who drank less than a liter and a half of water (about six cups) each day. For an entire year, half the participants upped their daily water intake by one and a half liters, while the other half didn't change their water intake. The women who drank more water cut their UTI rates nearly in half \u2014 getting an average of 1.6 infections versus the control group's 3.1 infections."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "The research has not yet been submitted for publication."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "The idea of drinking more water to prevent UTIs doesn't come as a shock to doctors \u2014 it's common advice. Dr. Anthony Schaeffer, a Northwestern University urology professor not involved in the research says the study puts what doctors have known into scientific terms. He adds, \"What's nice about the study is that it demonstrates something that sounds logical to be true.\""
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Urinary tract infections occur when bacteria sneaks into the bladder from the urethra. Women have shorter urethras than men, making it easier for bacteria to get in the bladder and putting women at increased risk for infection."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "Hooton says although it's simplistic, drinking a lot of water helps flush out the bacteria that can cause an infection. \"You're basically clearing bacteria out of the bladder,\" he explains, as well as reducing the concentration of bacteria in the urine. These two effects reduce the ability of the bacteria to stick to bladder cells, which is thought to cause infection, he adds."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "If you end up with a urinary tract infection despite adding water and maybe cranberry juice to your diet, antibiotics can usually treat it. But the World Health Organization has warned that some types of bacteria commonly causing these infections is becoming resistant to antibiotics. The more you take antibiotics, the more likely bacteria in your body will become resistant to those drugs. It's not uncommon to get UTIs multiple times, so the issue of antibiotic resistance is especially risky with this kind of infection. "
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "Last year, U.S. scientists found a UTI-causing germ in a Pennsylvania woman that didn't respond to an antibiotic commonly used as a last resort."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "So, how much water should you drink to ward off urinary tract infections? Hooton says because they only looked at a 1.5 liter increase, he can't say exactly."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "And while \"it seems likely that any increase in hydration would have a beneficial effect\" for everyone, Hooton says, the study specifically focuses on women who get three or more urinary tract infections a year."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "\"On the other hand, we see no downside to advising more fluid intake in healthy women with UTI recurrences, and we would certainly want to advise them to drink more fluids in our counseling to try this as well as other things to avoid antimicrobials,\" he tells Shots in an email."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "Greta Jochem is an NPR science desk intern. Find her on Twitter @greta_h_jochem. [Copyright 2017 NPR]"
+                        }
+                    ]
+                }, 
+                "storyDate": {
+                    "$text": "Fri, 20 Oct 2017 13:20:00 -0400"
+                }, 
+                "keywords": {}, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "Urinary tract infections cause painful urination and are unfortunately widespread. Scientists estimate that somewhere between <a href=\"https://www.nichd.nih.gov/health/topics/urinary/conditioninfo/Pages/affected.aspx\">40 percent to more than 50 percent</a> of women will get a UTI in their lifetime, and one in four will get a repeat infection. Left untreated, they can lead to kidney problems."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Cranberry juice is a common at-home preventative measure, but the science behind relying on the bitter fruit is pretty mixed. Some research has shown evidence that <a href=\"http://www.npr.org/sections/thesalt/2012/07/10/156561131/cranberry-juice-for-urinary-tract-infections-it-really-can-help\">compounds in cranberries could help</a> prevent bacteria from infecting the urinary tract lining, but other studies concluded that the <a href=\"http://www.npr.org/sections/health-shots/2010/12/10/131934459/study-questions-cranberry-juice-s-power-against-infections\">juice didn't help</a> people with recurring bladder infections."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "But, there may be a simple, old, and drug-free way to reduce these infections: Drink more water \u2014 a lot more water."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "A <a href=\"https://idsa.confex.com/idsa/2017/webprogram/Paper67459.html\">study</a> presented at <a href=\"http://www.idweek.org/\">IDWeek</a> earlier this month in San Diego, an annual meeting of infectious disease professionals, suggests that drinking more water is pretty effective at reducing bladder infections in women who are prone to them. And it also resulted in doctors issuing 47 percent fewer prescriptions for antibiotics in these women."
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "The research was funded by Danone Research. Danone also sells bottled water, like Evian, but <a href=\"http://uhealthsystem.com/doctors/profile/1592\">Dr. Thomas Hooton</a>, the lead author of the study and the clinical director of the Division of Infectious Diseases at the University of Miami, says that the study's conclusions are not exclusive to Danone's water."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "The study specifically looked at 140 premenopausal women in Bulgaria with recurring urinary tract infections, defined as more than three in the previous year, who drank less than a liter and a half of water (about six cups) each day. For an entire year, half the participants upped their daily water intake by one and a half liters, while the other half didn't change their water intake. The women who drank more water cut their UTI rates nearly in half \u2014 getting an average of 1.6 infections versus the control group's 3.1 infections."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "The research has not yet been submitted for publication."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "The idea of drinking more water to prevent UTIs doesn't come as a shock to doctors \u2014 it's common advice. <a href=\"http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=13362\">Dr. Anthony Schaeffer</a>, a Northwestern University urology professor not involved in the research says the study puts what doctors have known into scientific terms. He adds, \"What's nice about the study is that it demonstrates something that sounds logical to be true.\""
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Urinary tract infections occur when bacteria sneaks into the <a href=\"https://www.cdc.gov/getsmart/community/for-patients/common-illnesses/uti.html\">bladder</a> from the urethra. Women have shorter urethras than men, making it easier for bacteria to get in the bladder and putting women at <a href=\"http://www.urologyhealth.org/urologic-conditions/urinary-tract-infections-in-adults?article=47\">increased risk</a> for infection."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "Hooton says although it's simplistic, drinking a lot of water helps flush out the bacteria that can cause an infection. \"You're basically clearing bacteria out of the bladder,\" he explains, as well as reducing the concentration of bacteria in the urine. These two effects reduce the ability of the bacteria to stick to bladder cells, which is thought to cause infection, he adds."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "If you end up with a urinary tract infection despite adding water and maybe cranberry juice to your diet, antibiotics can usually treat it. But the World Health Organization has warned that some types of bacteria commonly causing these infections is becoming <a href=\"http://www.pbs.org/wgbh/nova/next/body/utis-are-becoming-untreatable-with-the-rise-of-antibiotic-resistance/\">resistant to antibiotics</a>. The more you take antibiotics, the more likely bacteria in your body will <a href=\"https://www.cdc.gov/getsmart/community/for-patients/common-illnesses/uti.html\">become resistant</a> to those drugs. It's not uncommon to get UTIs multiple times, so the issue of antibiotic resistance is especially risky with this kind of infection.<strong> </strong>"
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "Last year, U.S. scientists <a href=\"http://www.npr.org/sections/health-shots/2016/05/26/479639936/germ-resistant-to-antibiotic-of-last-resort-appears-in-u-s\">found a UTI-causing germ</a> in a Pennsylvania woman that didn't respond to an antibiotic commonly used as a last resort."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "So, how much water should you drink to ward off urinary tract infections? Hooton says because they only looked at a 1.5 liter increase, he can't say exactly."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "And while \"it seems likely that any increase in hydration would have a beneficial effect\" for everyone, Hooton says, the study specifically focuses on women who get three or more urinary tract infections a year."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "\"On the other hand, we see no downside to advising more fluid intake in healthy women with UTI recurrences, and we would certainly want to advise them to drink more fluids in our counseling to try this as well as other things to avoid antimicrobials,\" he tells Shots in an email."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "<em>Greta Jochem is an NPR science desk intern. Find her on Twitter @greta_h_jochem.</em>  <div class=\"fullattribution\">Copyright 2017 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=To+Reduce+Risk+Of+Recurring+Bladder+Infection%2C+Try+Drinking+More+Water&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "558912620", 
+                "relatedLink": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thesalt/2012/07/10/156561131/cranberry-juice-for-urinary-tract-infections-it-really-can-help?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=156561131&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Cranberry Juice For Urinary Tract Infections? It Really Can Help"
+                        }, 
+                        "type": "internal", 
+                        "id": "558997589"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health-shots/2010/12/10/131934459/study-questions-cranberry-juice-s-power-against-infections?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=131934459&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Study Questions Cranberry Juice's Power Against Infections"
+                        }, 
+                        "type": "internal", 
+                        "id": "558997548"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health-shots/2015/07/15/423222172/should-women-be-able-to-treat-bladder-infections-themselves?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=423222172&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Should Women Be Able To Treat Bladder Infections Themselves?"
+                        }, 
+                        "type": "internal", 
+                        "id": "558997633"
+                    }
+                ], 
+                "byline": [
+                    {
+                        "id": "558913022", 
+                        "name": {
+                            "$text": "Greta Jochem"
+                        }
+                    }
+                ], 
+                "pubDate": {
+                    "$text": "Fri, 20 Oct 2017 13:20:00 -0400"
+                }, 
+                "title": {
+                    "$text": "To Reduce Risk Of Recurring Bladder Infection, Try Drinking More Water"
+                }, 
+                "image": [
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1-55e171cf3c830b0f4c8bd8c7df91819a11b94653.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1-55e171cf3c830b0f4c8bd8c7df91819a11b94653.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Nawarit Rittiyotee/EyeEm"
+                        }, 
+                        "title": {
+                            "$text": "The old advice seems to hold true: Drinking lots of water helps prevent urinary tract infections."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1-55e171cf3c830b0f4c8bd8c7df91819a11b94653.jpg", 
+                                "type": "standard", 
+                                "width": "1998", 
+                                "primary": "true", 
+                                "height": "1499"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1_sq-20bd39f125bc05be65b9c2cc023dc2659871723c.jpg", 
+                                "type": "square", 
+                                "width": "1398", 
+                                "height": "1398"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1_wide-15a8c58756c96965836cc81b2b24bdd8d4503300.jpg", 
+                                "type": "wide", 
+                                "width": "1606", 
+                                "height": "903"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1-55e171cf3c830b0f4c8bd8c7df91819a11b94653.jpg", 
+                                "type": "enlargement", 
+                                "width": "1998", 
+                                "height": "1499"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "Getty Images"
+                        }, 
+                        "caption": {
+                            "$text": "The old advice seems to hold true: Drinking lots of water helps prevent urinary tract infections."
+                        }, 
+                        "type": "primary", 
+                        "id": "559027413"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1_sq-20bd39f125bc05be65b9c2cc023dc2659871723c.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/20/glasses-of-water-1_sq-20bd39f125bc05be65b9c2cc023dc2659871723c.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "Getty Images"
+                    }
+                }, 
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1128&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1128", 
+                        "title": {
+                            "$text": "Health"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/558995912/uti?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=558995912&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "558995912", 
+                        "title": {
+                            "$text": "UTI"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/466194805/bladder?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=466194805&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "466194805", 
+                        "title": {
+                            "$text": "bladder"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/189193009/water?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=189193009&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "189193009", 
+                        "title": {
+                            "$text": "water"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/156571024/urinary-tract-infection?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=156571024&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "156571024", 
+                        "title": {
+                            "$text": "urinary tract infection"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/156571020/cranberries?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=156571020&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "156571020", 
+                        "title": {
+                            "$text": "cranberries"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/154099088/antibiotic-resistance?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=154099088&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "154099088", 
+                        "title": {
+                            "$text": "antibiotic resistance"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/127578438/women?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127578438&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "127578438", 
+                        "title": {
+                            "$text": "women"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health-shots/126567525/your-health?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=126567525&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "category", 
+                        "id": "126567525", 
+                        "title": {
+                            "$text": "Your Health"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health-shots/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=103537970&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Shots - Health News"
+                        }, 
+                        "type": "blog", 
+                        "id": "103537970", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/medical/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1135&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1135", 
+                        "title": {
+                            "$text": "Medical Treatments"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/health/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1128&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1128", 
+                        "title": {
+                            "$text": "Health"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1091", 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/your-health/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1066&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1066", 
+                        "title": {
+                            "$text": "Your Health"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/research-news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1024&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1024", 
+                        "title": {
+                            "$text": "Research News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1003", 
+                        "title": {
+                            "$text": "U.S."
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1001", 
+                        "title": {
+                            "$text": "News"
+                        }
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Fri, 20 Oct 2017 13:20:55 -0400"
+                }, 
+                "teaser": {
+                    "$text": "While it may seem simple, drinking water flushes bacteria out of the urethra, helping to prevent infection in women prone to them. And it also may help reduce the use of antibiotics."
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/health-shots/2017/10/20/558912620/to-reduce-risk-of-recurring-bladder-infection-try-drinking-more-water?ft=nprml&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=558912620&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/2x9HPgO", 
+                        "type": "short"
+                    }
+                ], 
+                "slug": {
+                    "$text": "Shots - Health News"
+                }, 
+                "shortTitle": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ]
+            }, 
+            {
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "show": [
+                    {
+                        "segNum": {
+                            "$text": "6"
+                        }, 
+                        "program": {
+                            "code": "ATC", 
+                            "$text": "All Things Considered", 
+                            "id": "2"
+                        }, 
+                        "showDate": {
+                            "$text": "Fri, 20 Oct 2017 16:00:00 -0400"
+                        }
+                    }
+                ], 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "Having police officers wear little cameras seems to have no discernible impact on citizen complaints or officers' use of force, at least in the nation's capital."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "That's the conclusion of a study performed as Washington, D.C., rolled out its huge camera program. The city has one of the largest forces in the country, with some 2,600 officers now wearing cameras on their collars or shirts."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "\"We found essentially that we could not detect any statistically significant effect of the body-worn cameras,\" says Anita Ravishankar, a researcher with the Metropolitan Police Department and a group in the city government called the Lab @ DC."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "\"I think we're surprised by the result. I think a lot of people were suggesting that the body-worn cameras would change behavior,\" says Chief of Police Peter Newsham. \"There was no indication that the cameras changed behavior at all.\""
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Perhaps, he says, that is because his officers \"were doing the right thing in the first place.\""
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "In the wake of high-profile shootings, many police departments have been rapidly adopting body-worn cameras, despite a dearth of solid research on how the technology can change policing."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"We need science, rather than our speculations about it, to try to answer and understand what impacts the cameras are having,\" says David Yokum, director of the Lab @ DC."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "His group worked with local police officials to make sure that cameras were handed out in a way that let the researchers carefully compare officers who were randomly assigned to get cameras with those who were not. The study ran from June 2015 to last December."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "\"This is a very methodologically rigorous study. It is very well done. And that's not a small issue, because there have been many studies of body-worn cameras that are not rigorous,\" says Michael White, a researcher at Arizona State University who has studied body-worn camera programs in Tempe, Ariz., and Spokane, Wash."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "It's to be expected that these cameras might have little impact on the behavior of police officers in Washington, D.C., he says, because this particular force went through about a decade of federal oversight to help improve the department."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "\"They're hiring the right people; they've got good training; they've got good supervision; they've got good accountability mechanisms in place,\" White says. \"When you have a department in that kind of state, I don't think you're going to see large reductions in use of force and complaints, because you don't need to. There is no large number of excessive uses of force that need to be eliminated.\""
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "The big question about cameras now is, White says: \"Is it worth the cost?\" Besides buying the actual cameras, cash-strapped police departments have to pay to store and manage many thousands of hours of video footage. \"I think a big part of the answer to that question is going to come from what the police department and the community want to accomplish with the rollout of body-worn cameras.\""
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "The results of this study call into question whether police departments should purchase body-worn cameras at all, says Harlan Yu, who works for an organization called Upturn that studies how technology affects civil rights and social justice issues."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "\"This is the most important empirical study on the impact of police body-worn cameras to date,\" Yu says. \"If cameras don't decrease use of force, don't decrease the number of misconduct complaints and don't change officer behavior, then what are we adopting cameras for?\""
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "He notes that a lot of recent footage showing police violence has come from bystander video, not officer body cameras."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "And while cameras have had neutral effects in Washington, D.C., Yu says the devices might have harmful effects in places with policies that, say, allow officers to review footage before writing their initial reports of violent incidents."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "Despite this study's results, the nation's capital has no plans to get rid of its cameras, according to Newsham."
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "\"I am a little concerned that people might misconstrue the information and suggest that the body-worn cameras have no value. I don't think that this study suggests that at all,\" he says."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "In his view, the cameras have helped his department enormously after contentious encounters like a recent one on Christmas, when police officers fatally shot a man who was brandishing a knife. Some had suggested the man was not armed, but Newsham says the video shows otherwise."
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "\"I think it's really important for legitimacy for the police department,\" says Newsham, \"when we say something to be able to back it up with a real-world view that others can see.\""
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "D.C. Mayor Muriel Bowser says in a statement that the city \"invested in one of the most comprehensive deployments of body-worn cameras in the nation to ensure even greater transparency and accountability. As we conclude this comprehensive study, we will recommit ourselves to always evaluating what works \u2014and what does not\u2014 to better serve our residents and creating a safer, stronger DC.\" [Copyright 2017 NPR]"
+                        }
+                    ]
+                }, 
+                "storyDate": {
+                    "$text": "Fri, 20 Oct 2017 10:30:00 -0400"
+                }, 
+                "keywords": {}, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "Having police officers wear little cameras seems to have no discernible impact on citizen complaints or officers' use of force, at least in the nation's capital."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "That's the conclusion of a study performed as Washington, D.C., rolled out its huge camera program. The city has one of the largest forces in the country, with some 2,600 officers <a href=\"https://mpdc.dc.gov/page/bwc\">now wearing</a> cameras on their collars or shirts."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "\"We found essentially that we could not detect any statistically significant effect of the body-worn cameras,\" says <a href=\"http://thelab.dc.gov/anita.html\">Anita Ravishankar</a>, a researcher with the Metropolitan Police Department and a group in the city government called the <a href=\"http://thelab.dc.gov/\">Lab @ DC</a>."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "\"I think we're surprised by the result. I think a lot of people were suggesting that the body-worn cameras would change behavior,\" says Chief of Police <a href=\"https://mpdc.dc.gov/biography/peter-newsham-chief-police\">Peter Newsham</a>. \"There was no indication that the cameras changed behavior at all.\""
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Perhaps, he says, that is because his officers \"were doing the right thing in the first place.\""
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "In the wake of high-profile shootings, many police departments have been rapidly adopting body-worn cameras, despite a <a href=\"http://www.npr.org/sections/alltechconsidered/2017/04/27/525081998/scientists-hunt-hard-evidence-on-how-cop-cameras-affect-behavior\">dearth of solid research</a> on how the technology can change policing."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"We need science, rather than our speculations about it, to try to answer and understand what impacts the cameras are having,\" says <a href=\"http://thelab.dc.gov/david.html\">David Yokum</a>, director of the Lab @ DC."
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "His group worked with local police officials to make sure that cameras were handed out in a way that let the researchers carefully compare officers who were randomly assigned to get cameras with those who were not. The study ran from June 2015 to last December."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "\"This is a very methodologically rigorous study. It is very well done. And that's not a small issue, because there have been many studies of body-worn cameras that are not rigorous,\" says <a href=\"https://ccj.asu.edu/content/michael-d-white\">Michael White</a>, a researcher at Arizona State University who has studied body-worn camera programs in Tempe, Ariz., and Spokane, Wash."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "It's to be expected that these cameras might have little impact on the behavior of police officers in Washington, D.C., he says, because this particular force went through about a decade of federal oversight to help improve the department."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "\"They're hiring the right people; they've got good training; they've got good supervision; they've got good accountability mechanisms in place,\" White says. \"When you have a department in that kind of state, I don't think you're going to see large reductions in use of force and complaints, because you don't need to. There is no large number of excessive uses of force that need to be eliminated.\""
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "The big question about cameras now is, White says: \"Is it worth the cost?\" Besides buying the actual cameras, cash-strapped police departments have to pay to store and manage many thousands of hours of video footage. \"I think a big part of the answer to that question is going to come from what the police department and the community want to accomplish with the rollout of body-worn cameras.\""
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "The results of this study call into question whether police departments should purchase body-worn cameras at all, says <a href=\"https://www.teamupturn.com/\">Harlan Yu</a>, who works for an organization called Upturn that studies how technology affects civil rights and social justice issues."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "\"This is the most important empirical study on the impact of police body-worn cameras to date,\" Yu says. \"If cameras don't decrease use of force, don't decrease the number of misconduct complaints and don't change officer behavior, then what are we adopting cameras for?\""
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "He notes that a lot of recent footage showing police violence has come from bystander video, not officer body cameras."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "And while cameras have had neutral effects in Washington, D.C., Yu says the devices might have harmful effects in places with policies that, say, allow officers to review footage before writing their initial reports of violent incidents."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "Despite this study's results, the nation's capital has no plans to get rid of its cameras, according to Newsham."
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "\"I am a little concerned that people might misconstrue the information and suggest that the body-worn cameras have no value. I don't think that this study suggests that at all,\" he says."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "In his view, the cameras have helped his department enormously after contentious encounters like <a href=\"https://www.youtube.com/watch?v=cTR43ranGGs&index=3&list=PLrR45aEsPu9s0qwGU5O-bNWcIUkhtm0F8\">a recent one</a> on Christmas, when police officers fatally shot a man who was brandishing a knife. Some had suggested the man was not armed, but Newsham says the video shows otherwise."
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "\"I think it's really important for legitimacy for the police department,\" says Newsham, \"when we say something to be able to back it up with a real-world view that others can see.\""
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "D.C. Mayor Muriel Bowser says in a statement that the city \"invested in one of the most comprehensive deployments of body-worn cameras in the nation to ensure even greater transparency and accountability. As we conclude this comprehensive study, we will recommit ourselves to always evaluating what works \u2014and what does not\u2014 to better serve our residents and creating a safer, stronger DC.\"  <div class=\"fullattribution\">Copyright 2017 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Body+Cam+Study+Shows+No+Effect+On+Police+Use+Of+Force+Or+Citizen+Complaints&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "558832090", 
+                "byline": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/4494969/nell-greenfieldboyce?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=4494969&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "id": "558838009", 
+                        "name": {
+                            "personId": "4494969", 
+                            "$text": "Nell Greenfieldboyce"
+                        }
+                    }
+                ], 
+                "pubDate": {
+                    "$text": "Fri, 20 Oct 2017 21:11:00 -0400"
+                }, 
+                "title": {
+                    "$text": "Body Cam Study Shows No Effect On Police Use Of Force Or Citizen Complaints"
+                }, 
+                "image": [
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_custom-5bdd1c64ebeb9f42296bc590c3f198b3987b98ce.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_enl-5bdd1c64ebeb9f42296bc590c3f198b3987b98ce.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Brendan Smialowski"
+                        }, 
+                        "title": {
+                            "$text": "D.C. Master Patrol Officer Benjamin Fettering shows a body camera worn in place of a normal radio microphone before a news conference in 2014."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2-e1ba22b527bc373762085f7284633da12305dc90.jpg", 
+                                "type": "standard", 
+                                "width": "1780", 
+                                "height": "1335"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_sq-0f7e764425bfb001e99f1e3478d9423acb242f8e.jpg", 
+                                "type": "square", 
+                                "width": "1325", 
+                                "height": "1325"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_wide-a513a7bd37fd717d5abafe1c6c3258a4cbf8427b.jpg", 
+                                "type": "wide", 
+                                "width": "2000", 
+                                "height": "1125"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_enl-5bdd1c64ebeb9f42296bc590c3f198b3987b98ce.jpg", 
+                                "type": "enlargement", 
+                                "width": "2000", 
+                                "height": "1335"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_custom-5bdd1c64ebeb9f42296bc590c3f198b3987b98ce.jpg", 
+                                "type": "custom", 
+                                "width": "2000", 
+                                "primary": "true", 
+                                "height": "1335"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "AFP/Getty Images"
+                        }, 
+                        "caption": {
+                            "$text": "D.C. Master Patrol Officer Benjamin Fettering shows a body camera worn in place of a normal radio microphone before a news conference in 2014."
+                        }, 
+                        "type": "primary", 
+                        "id": "558835273"
+                    }
+                ], 
+                "audioRunByDate": {
+                    "$text": "Sat, 28 Oct 2017 01:00:00 -0400"
+                }, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_sq-0f7e764425bfb001e99f1e3478d9423acb242f8e.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/19/police-cameras-2_sq-0f7e764425bfb001e99f1e3478d9423acb242f8e.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "AFP/Getty Images"
+                    }
+                }, 
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/law/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1070&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1070", 
+                        "title": {
+                            "$text": "Law"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/164716837/two-way-featured-post-two?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=164716837&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "164716837", 
+                        "title": {
+                            "$text": "Two-Way Featured Post Two"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/155111283/npr-selects?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=155111283&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "155111283", 
+                        "title": {
+                            "$text": "NPR Selects"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/2017/10/20/558984729?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=558984729&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "programEpisode", 
+                        "id": "558984729", 
+                        "title": {
+                            "$text": "All Things Considered for October 20, 2017"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1001", 
+                        "title": {
+                            "$text": "News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=434975886&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "434975886", 
+                        "title": {
+                            "$text": "NPR Stories For Apple News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/345214212/body-cameras?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=345214212&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "345214212", 
+                        "title": {
+                            "$text": "body cameras"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/142134458/law-enforcement?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=142134458&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "142134458", 
+                        "title": {
+                            "$text": "law enforcement"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/129090002/washington-d-c?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=129090002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "129090002", 
+                        "title": {
+                            "$text": "Washington, D.C."
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thetwo-way/127602855/america/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127602855&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "category", 
+                        "id": "127602855", 
+                        "title": {
+                            "$text": "America"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thetwo-way/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=103943429&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "The Two-Way"
+                        }, 
+                        "type": "blog", 
+                        "id": "103943429", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/law/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1070&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1070", 
+                        "title": {
+                            "$text": "Law"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/research-news/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1024&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1024", 
+                        "title": {
+                            "$text": "Research News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/technology/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1019&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1019", 
+                        "title": {
+                            "$text": "Technology"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1003", 
+                        "title": {
+                            "$text": "U.S."
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=2&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "program", 
+                        "id": "2", 
+                        "title": {
+                            "$text": "All Things Considered"
+                        }
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Fri, 20 Oct 2017 17:01:55 -0400"
+                }, 
+                "teaser": {
+                    "$text": "That's the conclusion of a study performed as Washington, D.C., rolled out its huge program. The city has one of the largest forces in the country, with some 2,600 officers now wearing cameras."
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/thetwo-way/2017/10/20/558832090/body-cam-study-shows-no-effect-on-police-use-of-force-or-citizen-complaints?ft=nprml&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=558832090&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/2x8fnvv", 
+                        "type": "short"
+                    }
+                ], 
+                "transcript": {
+                    "link": [
+                        {
+                            "$text": "http://www.npr.org/templates/transcript/transcript.php?storyId=558832090&ft=nprml&f=1007", 
+                            "type": "html"
+                        }, 
+                        {
+                            "$text": "http://api.npr.org/transcript?id=558832090&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                            "type": "api"
+                        }
+                    ]
+                }, 
+                "slug": {
+                    "$text": "The Two-Way"
+                }, 
+                "shortTitle": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ], 
+                "audio": [
+                    {
+                        "rightsHolder": {}, 
+                        "description": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "format": {
+                            "hlsOnDemand": {
+                                "$text": "https://ondemandhls.npr.org/nprhls//npr/atc/2017/10/20171020_atc_body_cam_study_shows_no_effect_on_police_use_of_force_or_citizen_complaints/master.m3u8"
+                            }, 
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=559113263&type=1&mtype=WM&orgId=1&topicId=1070&d=182&p=2&story=558832090&t=progseg&e=558984729&seg=6&ft=nprml&f=1007"
+                            }, 
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/atc/2017/10/20171020_atc_body_cam_study_shows_no_effect_on_police_use_of_force_or_citizen_complaints.mp3"
+                            }, 
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1559113263-c817f4.m3u?orgId=1&topicId=1070&d=182&p=2&story=558832090&t=progseg&e=558984729&seg=6&ft=nprml&f=1007", 
+                                    "type": "m3u"
+                                }
+                            ], 
+                            "mp4": {
+                                "$text": "https://ondemand.npr.org/npr-mp4/npr/atc/2017/10/20171020_atc_body_cam_study_shows_no_effect_on_police_use_of_force_or_citizen_complaints.mp4?orgId=1&topicId=1070&d=182&p=2&story=558832090&t=progseg&e=558984729&seg=6&ft=nprml&f=1007"
+                            }
+                        }, 
+                        "region": {
+                            "$text": "all"
+                        }, 
+                        "title": {
+                            "$text": "Listen to the Story"
+                        }, 
+                        "duration": {
+                            "$text": "182"
+                        }, 
+                        "type": "primary", 
+                        "id": "559113263", 
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }
+                    }
+                ]
+            }, 
+            {
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "At some point or another, we've all cringed at the videos: lame cows struggling to stand; egg-laying hens squeezed into small, stacked cages; hogs confined to gestation crates, unable to walk or turn."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Over the past decade, animal advocates have made great strides informing us of some of the problems with how many of our favorite proteins are raised. They've also made progress bringing change to the industry by pressuring large-scale retailers \u2014 from Target to McDonald's \u2014 to commit to sourcing livestock raised with higher welfare standards. But one important protein source has  been missing almost entirely from the conversation: seafood."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "Mercy for Animals, a U.S.-based animal welfare group, says that's about to change. The group says it is beginning to lay the groundwork for a campaign that will target the aquaculture industry and shine a light on the conditions in which finfish like salmon, tilapia, catfish, trout, pangasius and other species are raised."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "\"More and more fish are being farmed in intense factory farms,\" says Nick Cooney, executive vice president at Mercy for Animals. \"At the same time, there's an increasing amount of research discovering just how intelligent and social fish are as individuals.\""
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Do consumers care? Mercy for Animals' own in-house studies suggest yes \u2014 and offer a roadmap of the objections the group is likely to raise with the aquaculture industry. Concerns like too many fish routinely crammed into pens and tanks, fish being raised in dirty water, high disease and mortality rates."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "The group, a vegan organization, also cites slaughter methods it finds most inhumane \u2014 like letting fish suffocate in open air, chilling them while still alive, or cutting their gills without stunning. And then there's the parasites known as sea lice, which feed on farmed salmon, costing the industry nearly $1 billion a year in losses.  "
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"For individual consumers, our goal is simply to educate them on the way these animals are being treated,\" says Cooney. \"Our research studies have found that when people learn about these things \u2014 that half the fish being used in the food industry are coming from factory farms, or are confined in tanks with dirty water; that sea lice eats away the flesh and faces of fish \u2014 that educating them leads to more compassionate choices. And for large companies, our hope in the coming years is that if we show them their customers care, they'll eliminate the worst practices in their supply chains.\""
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "Mercy for Animals may have one important thing going for it \u2014 timing."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Humane treatment of fish is a topic that's starting to bubble up elsewhere. Seafood industry gatherings like the Seafood Summit and the American Fisheries Society meetings are now including sessions focused on welfare issues for farm-raised fish. Supermarkets like Whole Foods are addressing the issue by including language in their seafood standards requiring producers to minimize stress, and have gone so far as to stop carrying live lobster in their stores. And in Seattle, a pair of commercial fishermen recently launched a new fishing vessel that they claim is designed to humanely harvest the wild Pacific cod they catch."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "But will eaters care what fish feel?"
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "Industry representatives say they paid close attention when animal advocacy groups went after the egg-laying hen and hog industries, but say they aren't convinced eaters will prioritize humane treatment for fish in the same way."
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "\"I'm not sure fish will capture the conscience of the public in the same way warm-blooded, furry animals have. People in this country don't see fish as sentient animals, with a conscience requiring the same welfare standards they'd give to a brown-eyed calf,\" says Craig Watson, who chairs the aquatic animal welfare committee for the National Aquaculture Association (NAA), a U.S.-based group of seafood growers."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "But it's a topic many in aquaculture are thinking more about, including veterinarian Stephen Frattini, president of the Center for Aquatic Animal Research and Management, who has spoken about fish welfare at industry conferences."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "\"As humans, we've utilized terrestrial animals as food, but also to pull carts and plow fields. And along the way, a moral contract evolved that acknowledged we should provide for them in a way beyond not being cruel to them,\" Frattini says. \"But with fish, we're not there yet. We [as eaters] have yet to really struggle with that.\""
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "Indeed, defining what constitutes humane treatment of fish may be a tricky proposition of its own."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "For one thing, the debate over whether fish are sentient and feel pain is far from settled."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "\"It depends on who you talk to,\" says Watson, who also runs the Tropical Aquaculture Laboratory at the University of Florida. He says he and many others think \"the science is clear that fish lack the neurophysiology to feel pain. They don't have the brain structure \u2014 a developed neocortex where pain occurs in higher vertebrates.\""
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Watson notes the growing body of literature suggesting that there's a part of a fish's brain that can feel pain or emotion. But he says the science is still pretty clear. \"Fish don't have the equipment for higher processes similar to ours.\" But in a way, he says, the answer almost doesn't matter. \"To me, it's not an argument of whether fish are emotional and conscious, that's a personal belief in many ways. What's important is the welfare of the animal.\""
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "What constitutes humane treatment for fish?"
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "But what's deemed humane for one species of fish may be detrimental to another. For example, imposing an across-the-board, low-density requirement might actually create a stressful environment for certain species. Tilapia or arctic char can become aggressive with each other when there are fewer fish in the pen."
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "And then there are fuzzier welfare issues. Are breeding techniques that sometimes result in skeletal deformities a humane issue? What about emerging evidence that accelerated growth rates of some farmed fish have resulted in hearing loss? For some farmed salmon, sea lice are more than just uncomfortable parasites that attach to fish and feed on them\u2014unchecked, they can be deadly and can also infect wild salmon swimming nearby. Last year in Scotland alone, 10 million salmon were destroyed because of parasites, diseases and other problems. Should high mortality rates like that be viewed through a humane lens?"
+                        }, 
+                        {
+                            "num": "22", 
+                            "$text": "\"It's not how many fish you put in the pen, it's how many you harvest. There are a lot of farmed fish that never make it to the plate because of mishaps during the farming process,\" says George Leonard, chief scientist at Ocean Conservancy. \"Should we as a society care about the suffering of those fish that never make it to the plate? That isn't a science question. That is a moral question.\""
+                        }, 
+                        {
+                            "num": "23", 
+                            "$text": "The issue is on the radar of industry certification groups like Best Aquaculture Practices, which includes an entire section on animal health and welfare in its standards. The Aquaculture Stewardship Council says welfare provisions are included in its current standards to address issues like stocking densities and veterinary care, but it does not have a separate standard for the 12 species it currently certifies."
+                        }, 
+                        {
+                            "num": "24", 
+                            "$text": "The National Aquaculture Association's official policy on animal welfare also encourages humane practices including quick slaughter, though it specifically warns against anthropomorphizing standards around pain or intelligence."
+                        }, 
+                        {
+                            "num": "25", 
+                            "$text": "\"What concerns people like me is the Mercy for Animal groups don't understand the fundamental biology of these animals, yet they want to dictate to us how to best grow the fish,\" says Randy MacMillian, an NAA board member and vice president of Clear Springs Foods, an Idaho-based trout farm."
+                        }, 
+                        {
+                            "num": "26", 
+                            "$text": "\"As fish farmers, our mission is to provide U.S. consumers with environmentally sustainable, wholesome, high-quality seafood at affordable prices. We have to look at husbandry conditions. We're looking at feed conversion [the amount of feed it takes to grow one pound of fish], mortality, morbidity \u2014 and we use those metrics to inform us if we're doing a good job,\" he says."
+                        }, 
+                        {
+                            "num": "27", 
+                            "$text": "Mercy for Animals will have some daunting hurdles in its path as it tries to shift the aquaculture industry: The vast majority of the farmed fish Americans eat comes from countries like China, Indonesia, Canada, Norway, Chile and Ecuador."
+                        }, 
+                        {
+                            "num": "28", 
+                            "$text": "\"Welfare rights are primarily a Western phenomenon,\" says Fred Conte, an extension aquaculture specialist with the University of California, Davis. \"You go to Central America or China and you're not going to find welfare standards.\""
+                        }, 
+                        {
+                            "num": "29", 
+                            "$text": "And many consumers already feel overwhelmed and confused with the complex decisions they face at the seafood counter: Is the fish farmed or wild? Is it from a sustainable source? Does it contain mercury or other contaminants? Was slave labor used in its production? Is the label accurate \u2014 or has that snapper been swapped for something else along the way? Adding the question, \"Was this fish farmed humanely?\" might be a tough sell."
+                        }, 
+                        {
+                            "num": "30", 
+                            "$text": "Conte says ultimately, society will decide whether to take up the humane treatment of fish."
+                        }, 
+                        {
+                            "num": "31", 
+                            "$text": "\"Right now, no one can make the definitive statement: Fish feel pain like humans feel pain. It's an open debate,\" says Conte. \"Before science comes up with that evidence, society is going to move in a direction. Industry will respond to market pressures. If society chooses not to believe a fish feels pain, there will not be much pressure on the industry.\""
+                        }, 
+                        {
+                            "num": "32"
+                        }, 
+                        {
+                            "num": "33", 
+                            "$text": "Clare Leschin-Hoar is a journalist based in San Diego who covers food policy and sustainability issues. This story was produced in collaboration with the Food & Environment Reporting Network, a non-profit, investigative news organization.  [Copyright 2017 NPR]"
+                        }
+                    ]
+                }, 
+                "storyDate": {
+                    "$text": "Fri, 20 Oct 2017 07:00:20 -0400"
+                }, 
+                "keywords": {}, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "At some point or another, we've all cringed at the videos: lame cows struggling to stand; egg-laying hens squeezed into small, stacked cages; hogs confined to gestation crates, unable to walk or turn."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "Over the past decade, animal advocates have made great strides informing us of some of the problems with how many of our favorite proteins are raised. They've also made progress bringing change to the industry by pressuring large-scale retailers \u2014 from Target to McDonald's \u2014 to commit to sourcing livestock raised with higher welfare standards. But one important protein source has  been missing almost entirely from the conversation: seafood."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "<a href=\"https://www.mercyforanimals.org/\">Mercy for Animals</a>, a U.S.-based animal welfare group, says that's about to change. The group says it is beginning to lay the groundwork for a campaign that will target the aquaculture industry and shine a light on the conditions in which finfish like salmon, tilapia, catfish, trout, pangasius and other species are raised."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "\"More and more fish are being farmed in intense factory farms,\" says Nick Cooney, executive vice president at Mercy for Animals. \"At the same time, there's an increasing amount of research discovering just how intelligent and social fish are as individuals.\""
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "Do consumers care? Mercy for Animals' own <a href=\"http://www.mercyforanimals.org/research\">in-house studies</a> suggest yes \u2014 and offer a roadmap of the objections the group is likely to raise with the aquaculture industry. Concerns like too many fish routinely crammed into pens and tanks, fish being raised in dirty water, high disease and mortality rates."
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "The group, a vegan organization, also cites slaughter methods it finds most inhumane \u2014 like letting fish suffocate in open air, chilling them while still alive, or cutting their gills without stunning. And then there's the parasites known as sea lice, which feed on farmed salmon, costing the industry nearly $1 billion a year in losses. <strong> </strong>"
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"For individual consumers, our goal is simply to educate them on the way these animals are being treated,\" says Cooney. \"Our research studies have found that when people learn about these things \u2014 that half the fish being used in the food industry are coming from factory farms, or are confined in tanks with dirty water; that sea lice eats away the flesh and faces of fish \u2014 that educating them leads to more compassionate choices. And for large companies, our hope in the coming years is that if we show them their customers care, they'll eliminate the worst practices in their supply chains.\""
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "Mercy for Animals may have one important thing going for it \u2014 timing."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Humane treatment of fish is a topic that's starting to bubble up elsewhere. Seafood industry gatherings like the <a href=\"http://www.seafoodsummit.org/session/a-discussion-on-fish-health-welfare-and-our-moral-obligations/\">Seafood Summit</a> and the <a href=\"https://afs.confex.com/afs/2017/meetingapp.cgi/Session/5471\">American Fisheries Society</a> meetings are now including sessions focused on welfare issues for farm-raised fish. Supermarkets like Whole Foods are addressing the issue by including language in their <a href=\"http://assets.wholefoodsmarket.com/www/missions-values/seafood-sustainability/WholeFoodsMarketQS_Farmed-finfish-shrimp_Jan1-2014.pdf\">seafood standards</a> requiring producers to minimize stress, and have gone so far as to stop carrying live lobster in their stores. And in Seattle, a pair of commercial fishermen recently launched a new fishing vessel that they claim is designed to <a href=\"http://www.npr.org/sections/thesalt/2017/06/14/532845573/will-fish-get-a-humanely-harvested-label-these-brothers-bet-40-million-on-it\">humanely harvest</a> the wild Pacific cod they catch."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "<strong>But will eaters care what fish feel?</strong>"
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "Industry representatives say they paid close attention when animal advocacy groups went after the egg-laying hen and hog industries, but say they aren't convinced eaters will prioritize humane treatment for fish in the same way."
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "\"I'm not sure fish will capture the conscience of the public in the same way warm-blooded, furry animals have. People in this country don't see fish as sentient animals, with a conscience requiring the same welfare standards they'd give to a brown-eyed calf,\" says Craig Watson, who chairs the aquatic animal welfare committee for the National Aquaculture Association (NAA), a U.S.-based group of seafood growers."
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "But it's a topic many in aquaculture are thinking more about, including veterinarian Stephen Frattini, president of the <a href=\"http://cfaarm.org/home.html\">Center for Aquatic Animal Research and Management</a>, who has spoken about fish welfare at industry conferences."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "\"As humans, we've utilized terrestrial animals as food, but also to pull carts and plow fields. And along the way, a moral contract evolved that acknowledged we should provide for them in a way beyond not being cruel to them,\" Frattini says. \"But with fish, we're not there yet. We [as eaters] have yet to really struggle with that.\""
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "Indeed, defining what constitutes humane treatment of fish may be a tricky proposition of its own."
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "For one thing, the debate over whether fish are <a href=\"http://www.npr.org/sections/thesalt/2016/06/20/482468094/fish-have-feelings-too-the-inner-lives-of-our-underwater-cousins\">sentient and feel pain</a> is far from settled."
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "\"It depends on who you talk to,\" says Watson, who also runs the Tropical Aquaculture Laboratory at the University of Florida. He says he and many others think \"the science is clear that fish lack the neurophysiology to feel pain. They don't have the brain structure \u2014 a developed neocortex where pain occurs in higher vertebrates.\""
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Watson notes the growing body of literature suggesting that there's a part of a fish's brain that can feel pain or emotion. But he says the science is still pretty clear. \"Fish don't have the equipment for higher processes similar to ours.\" But in a way, he says, the answer almost doesn't matter. \"To me, it's not an argument of whether fish are emotional and conscious, that's a personal belief in many ways. What's important is the welfare of the animal.\""
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "<strong>What constitutes humane treatment for fish?</strong>"
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "But what's deemed humane for one species of fish may be detrimental to another. For example, imposing an across-the-board, low-density requirement might actually create a stressful environment for certain species. Tilapia or arctic char can become aggressive with each other when there are fewer fish in the pen."
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "And then there are fuzzier welfare issues. Are breeding techniques that sometimes result in <a href=\"http://www.fisheriessciences.com/fisheries-aqua/skeletal-deformities-in-seabreams-understanding-the-genetic-origin-can-improve-production.pdf\">skeletal deformities</a> a humane issue? What about emerging evidence that accelerated growth rates of some farmed fish have resulted in <a href=\"https://www.theguardian.com/environment/world-on-a-plate/2017/aug/29/is-hearing-loss-in-farmed-fish-a-price-worth-paying-for-aquacultures-meteoric-rise\">hearing loss</a>? For some farmed salmon, sea lice are more than just uncomfortable parasites that attach to fish and feed on them\u2014<a href=\"http://www.cbc.ca/news/canada/new-brunswick/sea-lice-outbreak-fundy-1.4030118\">unchecked, they can be deadly</a> and can also infect wild salmon swimming nearby. Last year in Scotland alone, <a href=\"http://www.heraldscotland.com/news/15583156.A_disgrace__ten_million_salmon_thrown_away_by_fish_farm_industry_in_last_year_alone/?ref=mr&lp=8\">10 million salmon</a> were destroyed because of parasites, diseases and other problems. Should high mortality rates like that be viewed through a humane lens?"
+                        }, 
+                        {
+                            "num": "22", 
+                            "$text": "\"It's not how many fish you put in the pen, it's how many you harvest. There are a lot of farmed fish that never make it to the plate because of mishaps during the farming process,\" says George Leonard, chief scientist at Ocean Conservancy. \"Should we as a society care about the suffering of those fish that never make it to the plate? That isn't a science question. That is a moral question.\""
+                        }, 
+                        {
+                            "num": "23", 
+                            "$text": "The issue is on the radar of industry certification groups like Best Aquaculture Practices, which includes an entire section on animal health and welfare in its standards. The Aquaculture Stewardship Council says welfare provisions are included in its current standards to address issues like stocking densities and veterinary care, but it does not have a separate standard for the 12 species it currently certifies."
+                        }, 
+                        {
+                            "num": "24", 
+                            "$text": "The National Aquaculture Association's official policy on animal welfare also encourages humane practices including quick slaughter, though it specifically warns against anthropomorphizing standards around pain or intelligence."
+                        }, 
+                        {
+                            "num": "25", 
+                            "$text": "\"What concerns people like me is the Mercy for Animal groups don't understand the fundamental biology of these animals, yet they want to dictate to us how to best grow the fish,\" says Randy MacMillian, an NAA board member and vice president of Clear Springs Foods, an Idaho-based trout farm."
+                        }, 
+                        {
+                            "num": "26", 
+                            "$text": "\"As fish farmers, our mission is to provide U.S. consumers with environmentally sustainable, wholesome, high-quality seafood at affordable prices. We have to look at husbandry conditions. We're looking at feed conversion [the amount of feed it takes to grow one pound of fish], mortality, morbidity \u2014 and we use those metrics to inform us if we're doing a good job,\" he says."
+                        }, 
+                        {
+                            "num": "27", 
+                            "$text": "Mercy for Animals will have some daunting hurdles in its path as it tries to shift the aquaculture industry: The vast majority of the farmed fish Americans eat comes from countries like China, Indonesia, Canada, Norway, Chile and Ecuador."
+                        }, 
+                        {
+                            "num": "28", 
+                            "$text": "\"Welfare rights are primarily a Western phenomenon,\" says Fred Conte, an extension aquaculture specialist with the University of California, Davis. \"You go to Central America or China and you're not going to find welfare standards.\""
+                        }, 
+                        {
+                            "num": "29", 
+                            "$text": "And many consumers already feel overwhelmed and confused with the complex decisions they face at the seafood counter: Is the fish farmed or wild? Is it from a sustainable source? Does it contain mercury or other contaminants? Was slave labor used in its production? Is the label accurate \u2014 or has that snapper been swapped for something else along the way? Adding the question, \"Was this fish farmed humanely?\" might be a tough sell."
+                        }, 
+                        {
+                            "num": "30", 
+                            "$text": "Conte says ultimately, society will decide whether to take up the humane treatment of fish."
+                        }, 
+                        {
+                            "num": "31", 
+                            "$text": "\"Right now, no one can make the definitive statement: Fish feel pain like humans feel pain. It's an open debate,\" says Conte. \"Before science comes up with that evidence, society is going to move in a direction. Industry will respond to market pressures. If society chooses not to believe a fish feels pain, there will not be much pressure on the industry.\""
+                        }, 
+                        {
+                            "num": "32", 
+                            "$text": "<hr/>"
+                        }, 
+                        {
+                            "num": "33", 
+                            "$text": "<a href=\"http://www.leschin-hoar.com/\"><em>Clare Leschin-Hoar</em></a><em> is a journalist based in San Diego who covers food policy and sustainability issues. This story was produced in collaboration with the </em><a href=\"http://www.thefern.org\"><em>Food & Environment Reporting Network</em></a><em>, a non-profit, investigative news organization. </em>  <div class=\"fullattribution\">Copyright 2017 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Do+You+Care+If+Your+Fish+Dinner+Was+Raised+Humanely%3F+Animal+Advocates+Say+You+Should&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "558576179", 
+                "relatedLink": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thesalt/2017/03/15/520023117/i-want-to-eat-fish-responsibly-but-the-seafood-guides-are-so-confusing?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=520023117&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " I Want To Eat Fish Responsibly. But The Seafood Guides Are So Confusing!  "
+                        }, 
+                        "type": "internal", 
+                        "id": "558627684"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thesalt/2017/06/14/532845573/will-fish-get-a-humanely-harvested-label-these-brothers-bet-40-million-on-it?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=532845573&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Will Fish Get A Humanely Harvested Label? These Brothers Bet $40 Million On It"
+                        }, 
+                        "type": "internal", 
+                        "id": "558628326"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thesalt/2016/06/20/482468094/fish-have-feelings-too-the-inner-lives-of-our-underwater-cousins?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=482468094&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "caption": {
+                            "$text": " Fish Have Feelings, Too: The Inner Lives Of Our 'Underwater Cousins'"
+                        }, 
+                        "type": "internal", 
+                        "id": "558628407"
+                    }
+                ], 
+                "byline": [
+                    {
+                        "id": "558578402", 
+                        "name": {
+                            "$text": "Clare Leschin-Hoar"
+                        }
+                    }
+                ], 
+                "pubDate": {
+                    "$text": "Fri, 20 Oct 2017 13:59:00 -0400"
+                }, 
+                "title": {
+                    "$text": "Do You Care If Your Fish Dinner Was Raised Humanely? Animal Advocates Say You Should"
+                }, 
+                "image": [
+                    {
+                        "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_wide-1e72df8439ba44e352827572a9d980265e95280a.jpg?s=12", 
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_wide-1e72df8439ba44e352827572a9d980265e95280a.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "kali9"
+                        }, 
+                        "title": {
+                            "$text": "Fresh fish fillets for sale in a display case. Concerns over animal welfare have led to changes in recent years in raising livestock. But seafood has been missing from the conversation. One group aims to change that."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1-8c9c93349182e6072aa58f79db1dd24c29e68cce.jpg", 
+                                "type": "standard", 
+                                "width": "1776", 
+                                "height": "1331"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_sq-5f500bf367f73f60b678ae9895a425b67841620f.jpg", 
+                                "type": "square", 
+                                "width": "1332", 
+                                "height": "1331"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_wide-1e72df8439ba44e352827572a9d980265e95280a.jpg", 
+                                "type": "wide", 
+                                "width": "1991", 
+                                "primary": "true", 
+                                "height": "1120"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_wide-1e72df8439ba44e352827572a9d980265e95280a.jpg", 
+                                "type": "enlargement", 
+                                "width": "1991", 
+                                "height": "1120"
+                            }, 
+                            {
+                                "src": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_slide-bb6780971d395efdbd45a209cce52f26061d9513.jpg", 
+                                "type": "slide", 
+                                "width": "1993", 
+                                "height": "1328"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "Getty Images"
+                        }, 
+                        "caption": {
+                            "$text": "Fresh fish fillets for sale in a display case. Concerns over animal welfare have led to changes in recent years in raising livestock. But seafood has been missing from the conversation. One group aims to change that."
+                        }, 
+                        "type": "primary", 
+                        "id": "558627255"
+                    }
+                ], 
+                "audioRunByDate": {}, 
+                "thumbnail": {
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_sq-5f500bf367f73f60b678ae9895a425b67841620f.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2017/10/18/fish_market-1_sq-5f500bf367f73f60b678ae9895a425b67841620f.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "Getty Images"
+                    }
+                }, 
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/food/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1053&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1053", 
+                        "title": {
+                            "$text": "Food"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "NPR.org's Most Popular Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/525433830/fish-farming?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=525433830&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "525433830", 
+                        "title": {
+                            "$text": "fish farming"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/508597720/sustainable-seafood?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=508597720&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "508597720", 
+                        "title": {
+                            "$text": "sustainable seafood"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/145926956/animal-welfare?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=145926956&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "145926956", 
+                        "title": {
+                            "$text": "animal welfare"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/141274349/aquaculture?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=141274349&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "141274349", 
+                        "title": {
+                            "$text": "Aquaculture"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/thesalt/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=139941248&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "The Salt"
+                        }, 
+                        "type": "blog", 
+                        "id": "139941248", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/tags/127842013/seafood?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=127842013&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "tag", 
+                        "id": "127842013", 
+                        "title": {
+                            "$text": "Seafood"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/animals/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1132&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1132", 
+                        "title": {
+                            "$text": "Animals"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1091", 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/food/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1053&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1053", 
+                        "title": {
+                            "$text": "Food"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/environment/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1025&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1025", 
+                        "title": {
+                            "$text": "Environment"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=nprml&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1003", 
+                        "title": {
+                            "$text": "U.S."
+                        }
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Fri, 20 Oct 2017 13:59:10 -0400"
+                }, 
+                "teaser": {
+                    "$text": "Concerns over animal welfare have led to changes in recent years in how livestock are raised. But seafood has been missing from the conversation. One group aims to change that."
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/thesalt/2017/10/20/558576179/do-you-care-if-your-fish-dinner-was-raised-humanely-animal-advocates-say-you-sho?ft=nprml&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=558576179&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/2x54haE", 
+                        "type": "short"
+                    }
+                ], 
+                "slug": {
+                    "$text": "The Salt"
                 }, 
                 "shortTitle": {}, 
                 "organization": [
