@@ -13,7 +13,8 @@ f.close()
 url = 'http://api.npr.org/query?apiKey='
 key = API_KEY
 url = url + key
-url += '&numResults=6&format=json&id=1007'  # 1007 is science
+url += '&numResults=6&format=json&id=1149'  # 1007 is science
+url += raw_input("Which NPR ID do you want to query? ")
 
 response = urlopen(url)
 json_obj = load(response)
@@ -28,7 +29,7 @@ for story in json_obj['list']['story']:
         print "TITLE: " + story['title']['$text'] + "\n"
         print "PROGRAM: " + story['show'][0]['program']['$text'] + "\n"
         print "URL: " + story['link'][0]['$text'] + "\n"
-        print "IMAGE: " + story['image'][0]['src'] + "\n"
-        print "IMAGE CAPTION: " + story['image'][0]['caption']['$text'] + "\n"
-        print "IMAGE CREDIT: " + story['image'][0]['producer']['$text'] + "\n"
-        print "MP3 AUDIO: "+ story['audio'][0]['format']['mp3'][0]['$text'] + "\n"
+        #print "IMAGE: " + story['image'][0]['src'] + "\n"
+        #print "IMAGE CAPTION: " + story['image'][0]['caption']['$text'] + "\n"
+        #print "IMAGE CREDIT: " + story['image'][0]['producer']['$text'] + "\n"
+        #print "MP3 AUDIO: "+ story['audio'][0]['format']['mp3'][0]['$text'] + "\n"
