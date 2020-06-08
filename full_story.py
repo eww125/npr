@@ -1,18 +1,14 @@
-import urllib.request
-from json import load
-
-# api_key import
 import os
-home_dir =  os.path.expanduser('~')
-directory_path = home_dir + "/api_keys/"
-f = open(directory_path + 'npr_api_key', 'r')
-API_KEY = f.read().rstrip()
+import urllib.request
+from json import load, dumps
+
+f = open('credentials.yaml', 'r')
+apiKey = f.read().rstrip()
 f.close()
 
 # base url + the apiKey param
 url = 'http://api.npr.org/query?apiKey='
-key = API_KEY
-url = url + key
+url += apiKey
 url += '&numResults=1&format=json&id=1007'
 url += '&requiredAssets=text,image,audio'
 

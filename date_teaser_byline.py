@@ -1,32 +1,23 @@
+import os
 import urllib.request
-
-#from urllib2 import urlopen
 from json import load, dumps
 
-# api_key import
-import os
-home_dir =  os.path.expanduser('~')
-directory_path = home_dir + "/api_keys/"
-f = open(directory_path + 'npr_api_key', 'r')
-API_KEY = f.read().rstrip()
+f = open('credentials.yaml', 'r')
+apiKey = f.read().rstrip()
 f.close()
 
 url = 'http://api.npr.org/query?apiKey='
-key = API_KEY
-url = url + key
+url = url + apiKey 
 url += '&numResults=3&format=json&id=1007'  # 1007 is science
-
-#response = urlopen(url)
-#json_obj = load(response)
 
 wp = urllib.request.urlopen(url)
 json_obj = load(wp)
 pw = wp.read()
 print(pw)
 
-# uncomment 3 lines below to see JSON output to file
+# JSON output to file
 f = open('output.json', 'w')
-#f.write(dumps(json_obj, indent=4))
+f.write(dumps(json_obj, indent=4))
 f.close()
 
 for story in json_obj['list']['story']:

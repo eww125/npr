@@ -1,0 +1,2168 @@
+{
+    "version": "0.94",
+    "list": {
+        "title": {
+            "$text": "NPR Topics: Science"
+        },
+        "teaser": {
+            "$text": "The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health & Science podcast."
+        },
+        "miniTeaser": {},
+        "link": [
+            {
+                "type": "api",
+                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+            },
+            {
+                "type": "html",
+                "$text": "https://www.npr.org/sections/science/?ft=nprml&f=1007"
+            }
+        ],
+        "story": [
+            {
+                "id": "867395353",
+                "link": [
+                    {
+                        "type": "html",
+                        "$text": "https://www.npr.org/2020/06/07/867395353/california-was-set-to-spend-over-1-billion-to-prevent-wildfires-then-came-covid-?ft=nprml&f=1007"
+                    },
+                    {
+                        "type": "api",
+                        "$text": "http://api.npr.org/query?id=867395353&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                    }
+                ],
+                "title": {
+                    "$text": "California Was Set To Spend Over $1 Billion to Prevent Wildfires. Then Came COVID-19"
+                },
+                "subtitle": {},
+                "shortTitle": {},
+                "teaser": {
+                    "$text": "Communities were counting on historic levels of funding to prepare for climate change-driven disasters. Now, efforts are on hold."
+                },
+                "miniTeaser": {},
+                "contributorText": {},
+                "slug": {
+                    "$text": "The Coronavirus Crisis"
+                },
+                "thumbnail": {
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_sq-0f020a19d126a3bae406ae696e7f2171305d0790.jpg?s=13"
+                    },
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_sq-0f020a19d126a3bae406ae696e7f2171305d0790.jpg?s=11"
+                    },
+                    "provider": {
+                        "$text": "AFP via Getty Images"
+                    }
+                },
+                "storyDate": {
+                    "$text": "Sun, 07 Jun 2020 08:00:26 -0400"
+                },
+                "pubDate": {
+                    "$text": "Sun, 07 Jun 2020 08:00:00 -0400"
+                },
+                "lastModifiedDate": {
+                    "$text": "Sun, 07 Jun 2020 08:00:26 -0400"
+                },
+                "audioRunByDate": {},
+                "keywords": {},
+                "priorityKeywords": {},
+                "organization": [
+                    {
+                        "orgId": "1",
+                        "orgAbbr": "NPR",
+                        "name": {
+                            "$text": "NPR"
+                        },
+                        "website": {
+                            "$text": "https://www.npr.org"
+                        }
+                    }
+                ],
+                "parent": [
+                    {
+                        "id": "1007",
+                        "type": "primaryTopic",
+                        "title": {
+                            "$text": "Science"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/science/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "812054919",
+                        "type": "series",
+                        "slug": "true",
+                        "title": {
+                            "$text": "The Coronavirus Crisis"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/series/812054919/the-coronavirus-crisis?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=812054919&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "718056799",
+                        "type": "tag",
+                        "title": {
+                            "$text": "deadly wildfires"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/718056799/deadly-wildfires?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=718056799&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "203216898",
+                        "type": "tag",
+                        "title": {
+                            "$text": "California wildfires"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/203216898/california-wildfires?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=203216898&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "125938077",
+                        "type": "tag",
+                        "title": {
+                            "$text": "climate change"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/125938077/climate-change?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=125938077&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1128",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1128&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1031",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Global Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/global-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1031&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1025",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Environment"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/environment/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1025&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1007",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Science"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/science/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1001",
+                        "type": "topic",
+                        "title": {
+                            "$text": "News"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/news/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "byline": [
+                    {
+                        "id": "867433110",
+                        "name": {
+                            "personId": "803934365",
+                            "$text": "Lauren Sommer"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/people/803934365/lauren-sommer?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=803934365&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "image": [
+                    {
+                        "id": "867436380",
+                        "type": "primary",
+                        "width": "200",
+                        "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_custom-f4970cdc6f90cd55daa4079e6f3b5d0725f8007d.jpg?s=12",
+                        "hasBorder": "false",
+                        "title": {
+                            "$text": "After a series of devastating wildfires, like the 2019 Kincade Fire, California had planned on spending billions to prepare for climate-driven disasters."
+                        },
+                        "caption": {
+                            "$text": "After a series of devastating wildfires, like the 2019 Kincade Fire, California had planned on spending billions to prepare for climate-driven disasters."
+                        },
+                        "link": {
+                            "url": ""
+                        },
+                        "producer": {
+                            "$text": "Josh Edelson"
+                        },
+                        "provider": {
+                            "url": "",
+                            "$text": "AFP via Getty Images"
+                        },
+                        "copyright": {},
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_custom-f4970cdc6f90cd55daa4079e6f3b5d0725f8007d.jpg",
+                            "caption": {}
+                        },
+                        "crop": [
+                            {
+                                "type": "standard",
+                                "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457-62c43f8c95dcf5078a2ef66dc00cef4ba8402d42.jpg",
+                                "height": "1909",
+                                "width": "2546"
+                            },
+                            {
+                                "type": "square",
+                                "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_sq-0f020a19d126a3bae406ae696e7f2171305d0790.jpg",
+                                "height": "1789",
+                                "width": "1789"
+                            },
+                            {
+                                "type": "wide",
+                                "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_wide-6fc5674b8b5ec64861a0f85a48d951fe89119255.jpg",
+                                "height": "1565",
+                                "width": "2782"
+                            },
+                            {
+                                "type": "enlargement",
+                                "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_custom-f4970cdc6f90cd55daa4079e6f3b5d0725f8007d.jpg",
+                                "height": "1909",
+                                "width": "3000"
+                            },
+                            {
+                                "type": "custom",
+                                "src": "https://media.npr.org/assets/img/2020/06/01/gettyimages-1178441457_custom-f4970cdc6f90cd55daa4079e6f3b5d0725f8007d.jpg",
+                                "height": "1909",
+                                "width": "3000",
+                                "primary": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "867434554",
+                        "type": "standard",
+                        "width": "200",
+                        "src": "https://media.npr.org/assets/img/2020/06/01/firesafety-3-2_custom-0625c75e5542efc9838bbf79f2ea70304e5e9632.jpg?s=12",
+                        "hasBorder": "false",
+                        "title": {
+                            "$text": "A test house hit by blown embers at a research facility run by the Insurance Institute for Business & Home Safety in South Carolina last spring. Half of the test home has cedar siding and other common combustible building materials. The other half has common fire-resistant materials such as cement siding."
+                        },
+                        "caption": {
+                            "$text": "A test house hit by blown embers at a research facility run by the Insurance Institute for Business & Home Safety in South Carolina last spring. Half of the test home has cedar siding and other common combustible building materials. The other half has common fire-resistant materials such as cement siding."
+                        },
+                        "link": {
+                            "url": ""
+                        },
+                        "producer": {
+                            "$text": "Ryan Kellman"
+                        },
+                        "provider": {
+                            "url": "",
+                            "$text": "NPR"
+                        },
+                        "copyright": {},
+                        "crop": [
+                            {
+                                "type": "custom",
+                                "src": "https://media.npr.org/assets/img/2020/06/01/firesafety-3-2_custom-0625c75e5542efc9838bbf79f2ea70304e5e9632.jpg",
+                                "height": "1998",
+                                "width": "3000",
+                                "primary": "true"
+                            }
+                        ]
+                    }
+                ],
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "With the coronavirus pandemic eroding state budgets across the country, many communities risk having this disaster make them less prepared for looming climate-driven disasters."
+                        },
+                        {
+                            "num": "2",
+                            "$text": "Still recovering from devastating wildfires, California was poised to spend billions of dollars to prepare for future fires and other extreme weather disasters. The infrastructure projects, designed to make communities and homes more resistant to wildfire, have long been overlooked, fire experts say."
+                        },
+                        {
+                            "num": "3",
+                            "$text": "But with a $54 billion budget deficit, the programs are being put on hold."
+                        },
+                        {
+                            "num": "4",
+                            "$text": "\"It's really a shame,\" says Alexandra Syphard, a fire scientist at Sage Underwriters, a wildfire insurance company. \"Obviously COVID has been a shame on so many different levels. We were ramping up to provide what I believe is one of the most progressive and important investments in terms of fire risk that there could be.\""
+                        },
+                        {
+                            "num": "5",
+                            "$text": "With more than 25,000 homes and buildings lost over the last three years, California has focused recent spending on adding new firefighting crews and emergency response capacity. This year, the state planned on investing in something that could lessen the need for fire-fighting: \"hardening\" millions of homes to make them more resistant to burning."
+                        },
+                        {
+                            "num": "6",
+                            "$text": "Similar home-retrofitting programs, piloted in communities around the state, have been very popular."
+                        },
+                        {
+                            "num": "7",
+                            "$text": "\"Up here in the mountains, a wood-shingled roof is another name for a matchbook,\" says Bill Seavy, a homeowner in South Lake Tahoe."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "Until a few years ago, Seavy had a wood-shingled roof, but he replaced it through a program that incentivized homeowners to install fire-resistant roofing. The local fire agency, the Lake Valley Fire Protection District, created the program after the 2007 Angora Fire, which destroyed almost 300 buildings and homes in the region."
+                        },
+                        {
+                            "num": "9",
+                            "$text": "\"In Lake Tahoe, we're vulnerable, and there's three million people in California that live in areas like this where you're vulnerable,\" says Seavy. \"So we've got to do everything we can.\""
+                        },
+                        {
+                            "num": "10",
+                            "$text": "Through federal funding from FEMA, homeowners could get 70 percent of their cost covered for a replacement roof. Wood roofs can fuel the spread of wildfires by catching burning embers."
+                        },
+                        {
+                            "num": "11",
+                            "$text": "\"Most homes are not burned by fires just marching up to them and burning them down,\" says Syphard. \"Most are destroyed because the fires are occurring during really high wind conditions and there tend to be these burning embers that can fly kilometers ahead of the fire front. And it's these burning embers that tend to get into all the little nooks and crannies of a house.\""
+                        },
+                        {
+                            "num": "12",
+                            "$text": "Even small fixes to a house can make a big difference, like putting mesh screens on attic vents or covering the eaves under a roof."
+                        },
+                        {
+                            "num": "13",
+                            "$text": "\"Things that in particular would prevent embers from penetrating the house are super significant in making a difference between whether a home survives a fire or not,\" says Syphard."
+                        },
+                        {
+                            "num": "14",
+                            "$text": "Last year, California lawmakers approved the first major statewide program for incentivizing such home-retrofits. In January, Governor Gavin Newsom announced $100 million in state and federal money to help homeowners replace roofs and make their homes more fire-resistant, particularly in low-income communities where upgrades may be out of reach for many."
+                        },
+                        {
+                            "num": "15",
+                            "$text": "But in May, Newsom proposed suspending the program, citing the need for deep budget cuts to offset the falling tax revenue from the economic downturn."
+                        },
+                        {
+                            "num": "16",
+                            "$text": "\"We learned that in the Paradise fires, homes built or retrofitted with home-hardening materials and features often withstood the deadly flames and stood to live another day,\" says California Assemblymember Jim Wood, who authored the bill to create the program. \"It is a sorry state when we refuse to acknowledge the importance, and financial benefits, of investing in prevention.\""
+                        },
+                        {
+                            "num": "17",
+                            "$text": " Two other substantial climate initiatives were also put on hold in the Governor's revised budget, which would have funded projects to prepare for fires, droughts, floods and sea level rise. Those include a $4.75 billion Climate Resilience Bond scheduled for the November ballot and $1 billion in state funding over five years for climate-related projects. State lawmakers are still trying to push ahead with a bill that would put a $7 billion climate and economic recovery bond on the ballot. "
+                        },
+                        {
+                            "num": "18",
+                            "$text": "The wildfire funding left in California's budget this year will likely go to firefighting and emergency response."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "\"We're staring down the barrel of another intense wildfire season given how dry it was this winter,\" says Wade Crowfoot, California's Secretary for Natural Resources. \"So we are anticipating actually having to juggle disaster response from different disasters.\""
+                        },
+                        {
+                            "num": "20",
+                            "$text": "Supporters of the resiliency initiatives say spending money to prepare for disasters in advance is substantially more economical than waiting for them to hit."
+                        },
+                        {
+                            "num": "21",
+                            "$text": "\"A dollar spent today saves you about six dollars in future emergencies,\" says Kate Gordon, director of California's Office of Planning and Research. \"And if you think about that, it's really logical. The cost of emergency response is enormous. Look at Paradise \u2014 rebuilding an entire town and relocating folks.\""
+                        },
+                        {
+                            "num": "22",
+                            "$text": "State officials say they're looking for other ways to fund climate preparation in hopes of preserving momentum after the recent disasters."
+                        },
+                        {
+                            "num": "23",
+                            "$text": "\"We are retooling in real time to really continue to drive forward those same priorities, particularly climate resilience, in a more constrained fiscal environment,\" says Crowfoot. \"Our residents get it. Californians want us actually to do more to protect communities from impacts.\""
+                        },
+                        {
+                            "num": "24",
+                            "$text": "California, like many states, is looking to federal stimulus funding to fill in the gaps, since climate-related projects could qualify as infrastructure spending. They're also looking at partnerships with private industry."
+                        },
+                        {
+                            "num": "25",
+                            "$text": "\"There is a moment at which this kind of economic disaster creates opportunity for thinking differently about how to build forward,\" says Gordon. \"Not to bounce back, but bounce forward.\" [Copyright 2020 NPR]"
+                        }
+                    ]
+                },
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "With the coronavirus pandemic eroding state budgets across the country, many communities risk having this disaster make them less prepared for looming climate-driven disasters."
+                        },
+                        {
+                            "num": "2",
+                            "$text": "Still recovering from devastating wildfires, California was poised to spend billions of dollars to prepare for future fires and other extreme weather disasters. The infrastructure projects, designed to make communities and homes more resistant to wildfire, have long been overlooked, fire experts say."
+                        },
+                        {
+                            "num": "3",
+                            "$text": "But with a $54 billion budget deficit, the programs are being put on hold."
+                        },
+                        {
+                            "num": "4",
+                            "$text": "\"It's really a shame,\" says Alexandra Syphard, a fire scientist at <a href=\"https://sageunderwriters.com/\">Sage Underwriters</a>, a wildfire insurance company. \"Obviously COVID has been a shame on so many different levels. We were ramping up to provide what I believe is one of the most progressive and important investments in terms of fire risk that there could be.\""
+                        },
+                        {
+                            "num": "5",
+                            "$text": "With more than 25,000 homes and buildings lost over the last three years, California has focused recent spending on adding new firefighting crews and emergency response capacity. This year, the state planned on investing in something that could lessen the need for fire-fighting: \"hardening\" millions of homes to make them <a href=\"https://www.kqed.org/science/1941685/this-california-neighborhood-was-built-to-survive-a-wildfire-and-it-worked\">more resistant to burning</a>."
+                        },
+                        {
+                            "num": "6",
+                            "$text": "Similar home-retrofitting programs, piloted in communities around the state, have been very popular."
+                        },
+                        {
+                            "num": "7",
+                            "$text": "\"Up here in the mountains, a wood-shingled roof is another name for a matchbook,\" says Bill Seavy, a homeowner in South Lake Tahoe."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "Until a few years ago, Seavy had a wood-shingled roof, but he replaced it through a <a href=\"https://www.lakevalleyfire.org/entry/index.php?option=com_content&view=article&id=35&catid=2&Itemid=182\">program that incentivized homeowners</a> to install fire-resistant roofing. The local fire agency, the Lake Valley Fire Protection District, created the program after the 2007 Angora Fire, which destroyed almost 300 buildings and homes in the region."
+                        },
+                        {
+                            "num": "9",
+                            "$text": "\"In Lake Tahoe, we're vulnerable, and there's three million people in California that live in areas like this where you're vulnerable,\" says Seavy. \"So we've got to do everything we can.\""
+                        },
+                        {
+                            "num": "10",
+                            "$text": "Through federal funding from FEMA, homeowners could get 70 percent of their cost covered for a replacement roof. Wood roofs can fuel the spread of wildfires by <a href=\"https://www.npr.org/2019/04/02/704854496/step-1-build-a-house-step-2-set-it-on-fire\">catching burning embers</a>."
+                        },
+                        {
+                            "num": "11",
+                            "$text": "\"Most homes are not burned by fires just marching up to them and burning them down,\" says Syphard. \"Most are destroyed because the fires are occurring during really high wind conditions and there tend to be these burning embers that can fly kilometers ahead of the fire front. And it's these burning embers that tend to get into all the little nooks and crannies of a house.\""
+                        },
+                        {
+                            "num": "12",
+                            "$text": "Even small fixes to a house can make a big difference, like putting mesh screens on attic vents or covering the eaves under a roof."
+                        },
+                        {
+                            "num": "13",
+                            "$text": "\"Things that in particular would prevent embers from penetrating the house are super significant in making a difference between whether a home survives a fire or not,\" says Syphard."
+                        },
+                        {
+                            "num": "14",
+                            "$text": "Last year, California lawmakers <a href=\"https://a02.asmdc.org/press-releases/20191002-governor-signs-ab-38-and-other-legislation-address-wildfire-resiliency\">approved the first major statewide program</a> for incentivizing such home-retrofits. In January, Governor Gavin Newsom announced $100 million in state and federal money to help homeowners replace roofs and make their homes more fire-resistant, particularly in low-income communities where upgrades may be out of reach for many."
+                        },
+                        {
+                            "num": "15",
+                            "$text": "But in May, Newsom proposed suspending the program, citing the need for deep budget cuts to offset the falling tax revenue from the economic downturn."
+                        },
+                        {
+                            "num": "16",
+                            "$text": "\"We learned that in the Paradise fires, homes built or retrofitted with home-hardening materials and features often withstood the deadly flames and stood to live another day,\" says California Assemblymember Jim Wood, who authored the bill to create the program. \"It is a sorry state when we refuse to acknowledge the importance, and financial benefits, of investing in prevention.\""
+                        },
+                        {
+                            "num": "17",
+                            "$text": " Two other substantial climate initiatives were also put on hold in the Governor's revised budget, which would have funded projects to prepare for fires, droughts, floods and sea level rise. Those include a <a href=\"http://www.ebudget.ca.gov/2020-21/pdf/BudgetSummary/ClimateResilience.pdf\">$4.75 billion Climate Resilience Bond</a> scheduled for the November ballot and $1 billion in state funding over five years for climate-related projects. State lawmakers are still trying to push ahead with a <a href=\"https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB3256&firstNav=tracking\">bill</a> that would put a $7 billion climate and economic recovery bond on the ballot. "
+                        },
+                        {
+                            "num": "18",
+                            "$text": "The wildfire funding left in California's budget this year will likely go to firefighting and emergency response."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "\"We're staring down the barrel of another intense wildfire season given how dry it was this winter,\" says Wade Crowfoot, California's Secretary for Natural Resources. \"So we are anticipating actually having to juggle disaster response from different disasters.\""
+                        },
+                        {
+                            "num": "20",
+                            "$text": "Supporters of the resiliency initiatives say spending money to prepare for disasters in advance is substantially more economical than waiting for them to hit."
+                        },
+                        {
+                            "num": "21",
+                            "$text": "\"A dollar spent today saves you about six dollars in future emergencies,\" says Kate Gordon, director of California's Office of Planning and Research. \"And if you think about that, it's really logical. The cost of emergency response is enormous. Look at Paradise \u2014 rebuilding an entire town and relocating folks.\""
+                        },
+                        {
+                            "num": "22",
+                            "$text": "State officials say they're looking for other ways to fund climate preparation in hopes of preserving momentum after the recent disasters."
+                        },
+                        {
+                            "num": "23",
+                            "$text": "\"We are retooling in real time to really continue to drive forward those same priorities, particularly climate resilience, in a more constrained fiscal environment,\" says Crowfoot. \"Our residents get it. Californians want us actually to do more to protect communities from impacts.\""
+                        },
+                        {
+                            "num": "24",
+                            "$text": "California, like many states, is looking to federal stimulus funding to fill in the gaps, since climate-related projects could qualify as infrastructure spending. They're also looking at partnerships with private industry."
+                        },
+                        {
+                            "num": "25",
+                            "$text": "\"There is a moment at which this kind of economic disaster creates opportunity for thinking differently about how to build forward,\" says Gordon. \"Not to bounce back, but bounce forward.\"  <div class=\"fullattribution\">Copyright 2020 NPR. To see more, visit <a href=\"https://www.npr.org\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=California+Was+Set+To+Spend+Over+%241+Billion+to+Prevent+Wildfires.+Then+Came+COVID-19&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "870251488",
+                "link": [
+                    {
+                        "type": "html",
+                        "$text": "https://www.npr.org/sections/health-shots/2020/06/07/870251488/beyond-protests-5-more-ways-to-channel-anger-into-action-to-fight-racism?ft=nprml&f=1007"
+                    },
+                    {
+                        "type": "api",
+                        "$text": "http://api.npr.org/query?id=870251488&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                    }
+                ],
+                "title": {
+                    "$text": "Beyond Protests: 5 More Ways To Channel Anger Into Action To Fight Racism"
+                },
+                "subtitle": {},
+                "shortTitle": {},
+                "teaser": {
+                    "$text": "Social justice advocates and psychologists point to a range of strategies to promote racial justice, including using your creative energy and talents. Political engagement and self-care help, too."
+                },
+                "miniTeaser": {},
+                "contributorText": {},
+                "slug": {
+                    "$text": "Shots - Health News"
+                },
+                "thumbnail": {
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_sq-69891288c7a6cfe4fd8d59482b8eb2f8a538124c.jpg?s=13"
+                    },
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_sq-69891288c7a6cfe4fd8d59482b8eb2f8a538124c.jpg?s=11"
+                    },
+                    "provider": {
+                        "$text": "AFP via Getty Images"
+                    }
+                },
+                "storyDate": {
+                    "$text": "Sun, 07 Jun 2020 07:00:26 -0400"
+                },
+                "pubDate": {
+                    "$text": "Sun, 07 Jun 2020 07:00:00 -0400"
+                },
+                "lastModifiedDate": {
+                    "$text": "Sun, 07 Jun 2020 07:00:26 -0400"
+                },
+                "audioRunByDate": {},
+                "keywords": {},
+                "priorityKeywords": {},
+                "organization": [
+                    {
+                        "orgId": "1",
+                        "orgAbbr": "NPR",
+                        "name": {
+                            "$text": "NPR"
+                        },
+                        "website": {
+                            "$text": "https://www.npr.org"
+                        }
+                    }
+                ],
+                "parent": [
+                    {
+                        "id": "1066",
+                        "type": "primaryTopic",
+                        "title": {
+                            "$text": "Your Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/your-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1066&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1002",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "868567696",
+                        "type": "series",
+                        "title": {
+                            "$text": "America Reckons With Racial Injustice"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/series/868567696/america-reckons-with-racial-injustice?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=868567696&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "866025764",
+                        "type": "tag",
+                        "title": {
+                            "$text": "George Floyd protests"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/866025764/george-floyd-protests?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=866025764&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "786655137",
+                        "type": "tag",
+                        "title": {
+                            "$text": "social justice"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/786655137/social-justice?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=786655137&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "525167375",
+                        "type": "tag",
+                        "title": {
+                            "$text": "racial justice"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/525167375/racial-justice?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=525167375&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "510581989",
+                        "type": "tag",
+                        "title": {
+                            "$text": "'How Change Happens'"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/510581989/how-change-happens?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=510581989&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "434975886",
+                        "type": "collection",
+                        "title": {
+                            "$text": "NPR Stories For Apple News"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=434975886&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "126567525",
+                        "type": "category",
+                        "title": {
+                            "$text": "Your Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/health-shots/126567525/your-health?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=126567525&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "126401665",
+                        "type": "tag",
+                        "title": {
+                            "$text": "protest"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/126401665/protest?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=126401665&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "103537970",
+                        "type": "blog",
+                        "slug": "true",
+                        "title": {
+                            "$text": "Shots - Health News"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/health-shots/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=103537970&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1128",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1128&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1066",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Your Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/your-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1066&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1030",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Children's Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/childrens-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1030&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1029",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Mental Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/mental-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1029&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1027",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Health Care"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/health-care/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1027&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1015",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Race"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/race/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1015&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1007",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Science"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/science/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1003",
+                        "type": "topic",
+                        "title": {
+                            "$text": "National"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/national/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1003&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1001",
+                        "type": "topic",
+                        "title": {
+                            "$text": "News"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/news/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "byline": [
+                    {
+                        "id": "870251490",
+                        "name": {
+                            "personId": "2100208",
+                            "$text": "Allison Aubrey"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/people/2100208/allison-aubrey?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=2100208&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "image": [
+                    {
+                        "id": "871131971",
+                        "type": "primary",
+                        "width": "200",
+                        "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_custom-bf4c8b0b4fe10c9c927b6363b9bdb756dd823e81.jpg?s=12",
+                        "hasBorder": "false",
+                        "title": {
+                            "$text": "The artist Celos paints a mural in downtown Los Angeles on May 30, 2020 in protest against the killing of George Floyd by police in Minneapolis."
+                        },
+                        "caption": {
+                            "$text": "The artist Celos paints a mural in downtown Los Angeles on May 30, 2020 in protest against the killing of George Floyd by police in Minneapolis."
+                        },
+                        "link": {
+                            "url": ""
+                        },
+                        "producer": {
+                            "$text": "Apu Gomes"
+                        },
+                        "provider": {
+                            "url": "",
+                            "$text": "AFP via Getty Images"
+                        },
+                        "copyright": {},
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_custom-bf4c8b0b4fe10c9c927b6363b9bdb756dd823e81.jpg",
+                            "caption": {}
+                        },
+                        "crop": [
+                            {
+                                "type": "standard",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555-e2d21161aaa5b31969b738a214b2bdaa4b17cc1d.jpg",
+                                "height": "1998",
+                                "width": "2664"
+                            },
+                            {
+                                "type": "square",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_sq-69891288c7a6cfe4fd8d59482b8eb2f8a538124c.jpg",
+                                "height": "1998",
+                                "width": "1998"
+                            },
+                            {
+                                "type": "wide",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_wide-5e5e161e621c6b5e5e13742d38c3396120e5b63f.jpg",
+                                "height": "1687",
+                                "width": "3000"
+                            },
+                            {
+                                "type": "enlargement",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_custom-bf4c8b0b4fe10c9c927b6363b9bdb756dd823e81.jpg",
+                                "height": "1998",
+                                "width": "3000"
+                            },
+                            {
+                                "type": "custom",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/gettyimages-1216479555_custom-bf4c8b0b4fe10c9c927b6363b9bdb756dd823e81.jpg",
+                                "height": "1998",
+                                "width": "3000",
+                                "primary": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "871076552",
+                        "type": "standard",
+                        "width": "200",
+                        "src": "https://media.npr.org/assets/img/2020/06/05/next-in-line--andre-rochester_custom-b6d75f4771b468361c165aa632a2afe9c943c1f6.jpg?s=12",
+                        "hasBorder": "false",
+                        "title": {
+                            "$text": "Andre Rochester created Next In Line following the killings of Philando Castile and Alton Sterling \u2014 two African American men shot by police in 2016. Rochester uses his art to raise money for positive solutions to create change."
+                        },
+                        "caption": {
+                            "$text": "Andre Rochester created <em>Next In Line </em>following the killings of Philando Castile and Alton Sterling \u2014 two African American men shot by police in 2016. Rochester uses <a href=\"https://www.andrerochester.com/\">his art</a> to raise money for positive solutions to create change."
+                        },
+                        "link": {
+                            "url": ""
+                        },
+                        "producer": {},
+                        "provider": {
+                            "url": "https://www.andrerochester.com/",
+                            "$text": "Andre Rochester"
+                        },
+                        "copyright": {},
+                        "crop": [
+                            {
+                                "type": "custom",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/next-in-line--andre-rochester_custom-b6d75f4771b468361c165aa632a2afe9c943c1f6.jpg",
+                                "height": "1998",
+                                "width": "3000",
+                                "primary": "true"
+                            }
+                        ]
+                    }
+                ],
+                "relatedLink": [
+                    {
+                        "id": "871461399",
+                        "type": "internal",
+                        "caption": {
+                            "$text": "How White Parents Can Talk To Their Kids About Race"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/2020/06/03/869071246/how-white-parents-can-talk-to-their-kids-about-race?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=869071246&profileTypeId=15&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "871042248",
+                        "type": "internal",
+                        "caption": {
+                            "$text": "Sports Figures Add Their Voices To Those Of Angry Protesters"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/2020/06/02/867288987/sports-figures-add-their-voices-to-those-of-angry-protesters?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=867288987&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "Protests against the violent deaths of George Floyd, Breonna Taylor, Ahmaud Arbery and others are emboldening and expanding the movement to fight racism. But to make progress, many of us may need to adjust our thinking \u2014 and our actions. We talked to several African American and Hispanic psychologists and leaders for strategies to fight racism."
+                        },
+                        {
+                            "num": "2",
+                            "$text": "You know that old adage: \"Don't talk about race and politics at the dinner table. Well, we've got to get out of that,\" says Polly Gipson, a clinical psychologist and associate professor of psychiatry at Michigan Medicine, University of Michigan."
+                        },
+                        {
+                            "num": "3",
+                            "$text": "And while many African Americans have the talk with their kids about how to avoid altercations with the police or what to say if they are stopped, it's important for white parents to talk to their kids about racism too."
+                        },
+                        {
+                            "num": "4",
+                            "$text": "\"Yes. It's uncomfortable,\" Gipson says. \"But we can't avoid things that are uncomfortable \u2014 because this is part of the problem of why we're not as far along as we should be,\" in eliminating racial injustices. And the more people who join the conversation, the better."
+                        },
+                        {
+                            "num": "5",
+                            "$text": "\"A lot of people of color are tired. We're tired of being the unseen and misunderstood,\" says Inger E Burnett-Zeigler, a psychologist and associate professor at the Feinberg School of Medicine at Northwestern University. She'd like to see more voices at the table."
+                        },
+                        {
+                            "num": "6",
+                            "$text": "\"I think it's important for everyone, regardless of race, to ask, 'What is my role in this system?' \" she says. Ask yourself, 'Have I been a passive bystander, and how can I change that?'"
+                        },
+                        {
+                            "num": "7",
+                            "$text": "\"Perhaps it's simply speaking up in situations where you may have been disinclined to speak up before,\" Burnett-Zeigler says."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "These tragic events of recent weeks can also create an opportunity, because people are fired up. Given all the anger and frustration, experts say there are strategies to channel these emotions into action."
+                        },
+                        {
+                            "num": "9",
+                            "$text": "1. Listen To People Closest To You, And To People Of Other Races"
+                        },
+                        {
+                            "num": "10",
+                            "$text": "Whether it's your work colleagues, teammates, your children or extended family, one way to change hearts and minds is to listen. When we stop talking and start listening, we validate others' feelings and emotions. And, we may find opportunities to educate."
+                        },
+                        {
+                            "num": "11",
+                            "$text": "For instance, \"People will say, my kids don't see color, and kind of wear that as a badge of honor,\" says psychologist Gipson. But if a white person says this to a black person, it can be offensive. And, though it may be well-intended, the idea that people are colorblind is false."
+                        },
+                        {
+                            "num": "12",
+                            "$text": "\"All kids, even infants, discern differences in race,\" Gipson says. \"It also invalidates people of color who have a 'lived experience' that is not like their white counterparts,\" she explains. People don't want important parts of their identity to be erased, they want to be recognized and respected for the entirety of their person."
+                        },
+                        {
+                            "num": "13",
+                            "$text": "2. Use Your Voice In Your Community And Work Place"
+                        },
+                        {
+                            "num": "14",
+                            "$text": "We don't all have the audience that sports figures have when they speak out against racism, but we all have a voice."
+                        },
+                        {
+                            "num": "15",
+                            "$text": "For instance, millions of people signed a petition posted by Color of Change, one of the nation's leading racial justice organizations, demanding charges against the officers involved in the death of George Floyd."
+                        },
+                        {
+                            "num": "16",
+                            "$text": "At the local level, identify a policy that disproportionately affects people of color. Pick an issue in your community \u2014 whether it's access to healthy food, school boundaries, or bail reform."
+                        },
+                        {
+                            "num": "17",
+                            "$text": "Rian Finney, 17, grew up hearing gunshots from his bedroom window, and he witnessed the aftermath of the unrest following the death of Freddie Gray in Baltimore in 2015."
+                        },
+                        {
+                            "num": "18",
+                            "$text": "\"If I don't speak up and do something, who will?\" Finney asks."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "He's now involved with several youth organizations, including GoodKids MadCity and Baltimore Ceasefire, which recruits youth ambassadors to help raise awareness of gun violence. It has always been young people who push the civil rights movement forward, Finney points out."
+                        },
+                        {
+                            "num": "20",
+                            "$text": "And for adults, \"look at your specific position and reflect on what power you might have to shift change to promote diversity and equity,\" Burnett-Zeigler says. If you're a manager, have you promoted or hired people of color? If you're a teacher, have you incorporated messages of racial diversity and civil rights into your curriculum?"
+                        },
+                        {
+                            "num": "21",
+                            "$text": "3. Give Your Time"
+                        },
+                        {
+                            "num": "22",
+                            "$text": "If you've thought about signing up to be a tutor or mentor, now's the time to do it."
+                        },
+                        {
+                            "num": "23",
+                            "$text": "\"Tutoring is a great example, mentoring is a great example,\" Burnett-Zeigler says. \"These are ways you can use your personal influence in private ways for good.\""
+                        },
+                        {
+                            "num": "24",
+                            "$text": "If you're looking for a way to get started, check out the many national civil rights organizations -- or find a local, grass-roots group, says Janet Murguia, president and CEO of UnidosUS, a group that aims to empower Latinos to make change."
+                        },
+                        {
+                            "num": "25",
+                            "$text": "\"We've partnered with organizations like Color of Change, National Urban League, Black Lives Matter and Race Forward, [which] are all doing incredible work in this space,\" Murguia says."
+                        },
+                        {
+                            "num": "26",
+                            "$text": "For instance, Race Forward offers interactive racial justice training courses and classes. And she points to the race and healing collaborative supported by the Kellogg Foundation, which sponsors an annual National Day of Racial Healing event."
+                        },
+                        {
+                            "num": "27",
+                            "$text": "4. Speak Up By Using Your Creative Talents"
+                        },
+                        {
+                            "num": "28",
+                            "$text": "\"There are so many ways young people can use their talent and gifts,\" says Gipson. On social media, we see examples of artists, from painters to jewelry makers, selling their wares and giving proceeds to an organization pushing for change."
+                        },
+                        {
+                            "num": "29",
+                            "$text": "\"I love that idea,\" says Wizdom Powell, a psychologist and associate professor who directs the Health Disparities Institute at the University of Connecticut."
+                        },
+                        {
+                            "num": "30",
+                            "$text": "\"The idea here is to leverage your gifts and leverage your privilege, because we all have some of that,\" Powell says. She points to an art competition that her institute organizes around visualizing health disparities. Art can play a role in healing and activism for health equity and social justice, she says."
+                        },
+                        {
+                            "num": "31",
+                            "$text": "\"The arts have long been a vital and important way to process emotions, especially difficult ones, into something tangible,\" says Jeremy Nobel, a physician who founded the Foundation for Art and Healing. \"Expressive artifacts that make sense of the moment, bear witness and catalyze change.\""
+                        },
+                        {
+                            "num": "32",
+                            "$text": "In times of distress, people can use art to access and communicate difficult thoughts and feelings, especially ones that are hard to talk about,\" Nobel says. \"[Art] offers a unique and powerful way to speak up, be heard, and be witnessed.\""
+                        },
+                        {
+                            "num": "33",
+                            "$text": "5. Self-Care Is Important"
+                        },
+                        {
+                            "num": "34",
+                            "$text": "For people who are reeling from the recent spate of deaths and racial trauma, it can feel overwhelming, says GiShawn Mance, a psychologist at Howard University. She says, she feels it personally."
+                        },
+                        {
+                            "num": "35",
+                            "$text": "She leads healing circles, which can help people connect and grieve. She also facilitates restorative justice circles \u2014 which aim to bring people who are trying to settle a conflict together."
+                        },
+                        {
+                            "num": "36",
+                            "$text": "But Mance says, in recent days she's needed to take some time for herself. \"It's been hard to concentrate on work,\" she says. In addition to the national unrest and the COVID-19 epidemic, which has hit communities of color the hardest, she is pregnant and a close friend recently died. \"It's a lot, and there have been tears,\" she says."
+                        },
+                        {
+                            "num": "37",
+                            "$text": "This is a traumatic and stressful time especially for African Americans and people of color. \"People put a lot of pressure on themselves to act or do something in this moment,\" Mance says. So, her advice is this: \"The fight for equity and justice is an ongoing effort; thus, do not put pressure on yourself to act or do something in this moment.\" And she says, \"I'm particularly talking to people of color and black people who are experiencing this.\""
+                        },
+                        {
+                            "num": "38",
+                            "$text": "\"It is difficult to help others when you are not OK,\" she says. So, though self-care strategies will vary, take care of yourself and your mental health first, she says. Then \"you can move forward in action to help others.\" [Copyright 2020 NPR]"
+                        }
+                    ]
+                },
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "Protests against the violent deaths of George Floyd, Breonna Taylor, Ahmaud Arbery and others are emboldening and expanding the movement to fight racism. But to make progress, many of us may need to adjust our thinking \u2014 and our actions. We talked to several African American and Hispanic psychologists and leaders for strategies to fight racism."
+                        },
+                        {
+                            "num": "2",
+                            "$text": "You know that old adage: \"Don't talk about race and politics at the dinner table. Well, we've got to get out of that,\" says <a href=\"https://medicine.umich.edu/dept/psychiatry/polly-gipson-phd\">Polly Gipson, </a>a clinical psychologist and associate professor of psychiatry at Michigan Medicine, University of Michigan."
+                        },
+                        {
+                            "num": "3",
+                            "$text": "And while many African Americans have<em> </em><a href=\"https://www.npr.org/sections/codeswitch/2014/09/05/345891814/whats-your-take-on-nprthetalk\"><em>the talk</em></a><em> </em>with their kids about how to avoid altercations with the police or what to say if they are stopped, it's important for <a href=\"https://podcasts.apple.com/us/podcast/how-white-parents-can-talk-to-their-kids-about-race/id1454009140?i=1000476760260\">white parents t</a>o talk to their kids about racism too."
+                        },
+                        {
+                            "num": "4",
+                            "$text": "\"Yes. It's uncomfortable,\" Gipson says. \"But we can't avoid things that are uncomfortable \u2014 because this is part of the problem of why we're not as far along as we should be,\" in eliminating racial injustices. And the more people who join the conversation, the better."
+                        },
+                        {
+                            "num": "5",
+                            "$text": "\"A lot of people of color are tired. We're tired of being the unseen and misunderstood,\" says <a href=\"https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=22859\">Inger E Burnett-Zeigler,</a> a psychologist and associate professor at the Feinberg School of Medicine at Northwestern University. She'd like to see more voices at the table."
+                        },
+                        {
+                            "num": "6",
+                            "$text": "\"I think it's important for everyone, regardless of race, to ask, 'What is my role in this system?' \" she says. Ask yourself, 'Have I been a passive bystander, and how can I change that?'"
+                        },
+                        {
+                            "num": "7",
+                            "$text": "\"Perhaps it's simply speaking up in situations where you may have been disinclined to speak up before,\" Burnett-Zeigler says."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "These tragic events of recent weeks can also create an opportunity, because people are fired up. Given all the anger and frustration, experts say there are strategies to channel these emotions into action."
+                        },
+                        {
+                            "num": "9",
+                            "$text": "<strong>1. Listen To People Closest To You, And To People Of Other Races</strong>"
+                        },
+                        {
+                            "num": "10",
+                            "$text": "Whether it's your work colleagues, teammates, your children or extended family, one way to change hearts and minds is to listen. When we stop talking and start listening, we validate others' feelings and emotions. And, we may find opportunities to educate."
+                        },
+                        {
+                            "num": "11",
+                            "$text": "For instance, \"People will say, my kids don't see color, and kind of wear that as a badge of honor,\" says psychologist Gipson. But if a white person says this to a black person, it can be offensive. And, though it may be well-intended, the idea that people are colorblind is false."
+                        },
+                        {
+                            "num": "12",
+                            "$text": "\"All kids, even infants, discern differences in race,\" Gipson says. \"It also invalidates people of color who have a 'lived experience' that is not like their white counterparts,\" she explains. People don't want important parts of their identity to be erased, they want to be recognized and respected for the entirety of their person."
+                        },
+                        {
+                            "num": "13",
+                            "$text": "<strong>2. Use Your Voice In Your Community And Work Place</strong>"
+                        },
+                        {
+                            "num": "14",
+                            "$text": "We don't all have the audience that <a href=\"https://www.npr.org/2020/06/02/867288987/sports-figures-add-their-voices-to-those-of-angry-protesters\">sports figures</a> have when they speak out against racism, but we all have a voice."
+                        },
+                        {
+                            "num": "15",
+                            "$text": "For instance, millions of people <a href=\"https://act.colorofchange.org/sign/justiceforfloyd_george_floyd_minneapolis\">signed a petition</a> posted by <a href=\"https://colorofchange.org/\">Color of Change</a>, one of the nation's leading racial justice organizations, demanding charges against the officers involved in the death of George Floyd."
+                        },
+                        {
+                            "num": "16",
+                            "$text": "At the local level, identify a policy that disproportionately affects people of color. Pick an issue in your community \u2014 whether it's access to healthy food, school boundaries, or bail reform."
+                        },
+                        {
+                            "num": "17",
+                            "$text": "Rian Finney, 17, grew up hearing gunshots from his bedroom window, and he witnessed the aftermath of the unrest following the death of <a href=\"https://www.npr.org/2020/06/03/868565590/from-freddie-gray-to-george-floyd-wes-moore-says-its-time-to-change-the-systems\">Freddie Gray</a> in Baltimore in 2015."
+                        },
+                        {
+                            "num": "18",
+                            "$text": "\"If I don't speak up and do something, who will?\" Finney asks."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "He's now involved with several youth organizations, including <a href=\"https://www.facebook.com/GKMC2018/\">GoodKids MadCity</a> and <a href=\"https://baltimoreceasefire.com/\">Baltimore Ceasefire</a>, which recruits<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScRqxzkFvgzdWh7hPxqxpeCPJdqPU9QDvkmlXuo0tpUXaqoBw/viewform\"> youth ambassadors</a> to help raise awareness of gun violence. It has always been young people who push the civil rights movement forward, Finney points out."
+                        },
+                        {
+                            "num": "20",
+                            "$text": "And for adults, \"look at your specific position and reflect on what power you might have to shift change to promote diversity and equity,\" <a href=\"https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=22859\">Burnett-Zeigler</a> says. If you're a manager, have you promoted or hired people of color? If you're a teacher, have you incorporated messages of racial diversity and civil rights into your curriculum?"
+                        },
+                        {
+                            "num": "21",
+                            "$text": "<strong>3. Give Your Time</strong>"
+                        },
+                        {
+                            "num": "22",
+                            "$text": "If you've thought about signing up to be a tutor or mentor, now's the time to do it."
+                        },
+                        {
+                            "num": "23",
+                            "$text": "\"Tutoring is a great example, mentoring is a great example,\" Burnett-Zeigler says. \"These are ways you can use your personal influence in private ways for good.\""
+                        },
+                        {
+                            "num": "24",
+                            "$text": "If you're looking for a way to get started, check out the many national civil rights organizations <strong>--</strong> or find a local, grass-roots group, says <a href=\"https://www.unidosus.org/about-us/president-and-ceo/\">Janet Murguia,</a> president and CEO of<a href=\"https://www.unidosus.org/\"> UnidosUS,</a> a group that aims to empower Latinos to make change."
+                        },
+                        {
+                            "num": "25",
+                            "$text": "\"We've partnered with organizations like <a href=\"https://colorofchange.org/\">Color of Change</a>, <a href=\"https://nul.org/\">National Urban League</a>, <a href=\"https://blacklivesmatter.com/\">Black Lives Matter</a> and <a href=\"https://www.raceforward.org/\">Race Forward</a>, [which] are all doing incredible work in this space,\" Murguia says."
+                        },
+                        {
+                            "num": "26",
+                            "$text": "For instance, Race Forward offers interactive racial justice <a href=\"https://www.raceforward.org/trainings\">training courses</a> and classes. And she points to the race and healing collaborative supported by the Kellogg Foundation, which sponsors an annual <a href=\"https://healourcommunities.org/\">National Day of Racial Healing</a> event."
+                        },
+                        {
+                            "num": "27",
+                            "$text": "<strong>4. Speak Up By Using Your Creative Talents</strong>"
+                        },
+                        {
+                            "num": "28",
+                            "$text": "\"There are so many ways young people can use their talent and gifts,\" says <a href=\"https://medicine.umich.edu/dept/psychiatry/polly-gipson-phd\">Gipson</a>. On social media, we see examples of artists, from painters to jewelry makers, selling their wares and giving proceeds to an organization pushing for change."
+                        },
+                        {
+                            "num": "29",
+                            "$text": "\"I love that idea,\" says <a href=\"https://health.uconn.edu/health-disparities/wizdom-powell-ph-d/\">Wizdom Powell</a>, a psychologist and associate professor who directs the Health Disparities Institute at the University of Connecticut."
+                        },
+                        {
+                            "num": "30",
+                            "$text": "\"The idea here is to leverage your gifts and leverage your privilege, because we all have some of that,\" Powell says. She points to an <a href=\"https://health.uconn.edu/health-disparities/2018-visualizing-health-equity-contest-winners-gallery/\">art competition</a> that her institute organizes around visualizing health disparities. Art can play a role in healing and activism for health equity and social justice, she says."
+                        },
+                        {
+                            "num": "31",
+                            "$text": "\"The arts have long been a vital and important way to process emotions, especially difficult ones, into something tangible,\" says <a href=\"https://artandhealing.org/unloneliness-with-jeremy-nobel/\">Jeremy Nobel</a>, a physician who founded the <a href=\"https://artandhealing.org/\">Foundation for Art and Healing</a>. \"Expressive artifacts that make sense of the moment, bear witness and catalyze change.\""
+                        },
+                        {
+                            "num": "32",
+                            "$text": "In times of distress, people can use art to access and communicate difficult thoughts and feelings, especially ones that are hard to talk about,\" Nobel says. \"[Art] offers a unique and powerful way to speak up, be heard, and be witnessed.\""
+                        },
+                        {
+                            "num": "33",
+                            "$text": "<strong>5. Self-Care Is Important</strong>"
+                        },
+                        {
+                            "num": "34",
+                            "$text": "For people who are reeling from the recent spate of deaths and racial trauma, it can feel overwhelming, says <a href=\"https://profiles.howard.edu/profile/46356/gishawn-mance\">GiShawn Mance</a>, a psychologist at Howard University. She says, she feels it personally."
+                        },
+                        {
+                            "num": "35",
+                            "$text": "She leads healing circles, which can help people connect and grieve. She also facilitates <a href=\"https://oscr.umich.edu/article/restorative-justice-circles\">restorative justice circles</a> \u2014 which aim to bring people who are trying to settle a conflict together."
+                        },
+                        {
+                            "num": "36",
+                            "$text": "But Mance says, in recent days she's needed to take some time for herself. \"It's been hard to concentrate on work,\" she says. In addition to the national unrest and the COVID-19 epidemic, which has hit communities of color the hardest, she is pregnant and a close friend recently died. \"It's a lot, and there have been tears,\" she says."
+                        },
+                        {
+                            "num": "37",
+                            "$text": "This is a traumatic and stressful time especially for African Americans and people of color. \"People put a lot of pressure on themselves to <em>act</em> or do something in <em>this</em> moment,\" Mance says. So, her advice is this: \"The fight for equity and justice is an ongoing effort; thus, do not put pressure on yourself to act or do something in <em>this </em>moment.\" And she says, \"I'm particularly talking to people of color and black people who are experiencing this.\""
+                        },
+                        {
+                            "num": "38",
+                            "$text": "\"It is difficult to help others when you are not OK,\" she says. So, though self-care strategies will vary, take care of yourself and your mental health first, she says. Then \"you can move forward in action to help others.\"  <div class=\"fullattribution\">Copyright 2020 NPR. To see more, visit <a href=\"https://www.npr.org\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Beyond+Protests%3A+5+More+Ways+To+Channel+Anger+Into+Action+To+Fight+Racism&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "870306050",
+                "link": [
+                    {
+                        "type": "html",
+                        "$text": "https://www.npr.org/sections/goatsandsoda/2020/06/05/870306050/coronavirus-faqs-how-to-stay-safe-while-protesting-when-to-go-out-after-recovery?ft=nprml&f=1007"
+                    },
+                    {
+                        "type": "api",
+                        "$text": "http://api.npr.org/query?id=870306050&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                    }
+                ],
+                "title": {
+                    "$text": "Coronavirus FAQs: How To Stay Safe While Protesting, When To Go Out After Recovery"
+                },
+                "subtitle": {},
+                "shortTitle": {},
+                "teaser": {
+                    "$text": "Also: If I head to a new state or country for a visit, do I need to self-isolate to protect others in case I'm contagious?"
+                },
+                "miniTeaser": {},
+                "contributorText": {},
+                "slug": {
+                    "$text": "Goats and Soda"
+                },
+                "thumbnail": {
+                    "medium": {
+                        "$text": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_sq-101ecc68e8dc51ee1eaf3a30cb5c51e90acd406e.jpg?s=13"
+                    },
+                    "large": {
+                        "$text": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_sq-101ecc68e8dc51ee1eaf3a30cb5c51e90acd406e.jpg?s=11"
+                    },
+                    "provider": {
+                        "$text": "Malaka Gharib/NPR"
+                    }
+                },
+                "storyDate": {
+                    "$text": "Fri, 05 Jun 2020 17:21:12 -0400"
+                },
+                "pubDate": {
+                    "$text": "Fri, 05 Jun 2020 19:09:00 -0400"
+                },
+                "lastModifiedDate": {
+                    "$text": "Fri, 05 Jun 2020 19:14:02 -0400"
+                },
+                "audioRunByDate": {},
+                "keywords": {},
+                "priorityKeywords": {},
+                "organization": [
+                    {
+                        "orgId": "1",
+                        "orgAbbr": "NPR",
+                        "name": {
+                            "$text": "NPR"
+                        },
+                        "website": {
+                            "$text": "https://www.npr.org"
+                        }
+                    }
+                ],
+                "parent": [
+                    {
+                        "id": "1031",
+                        "type": "primaryTopic",
+                        "title": {
+                            "$text": "Global Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/global-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1031&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1001",
+                        "type": "topic",
+                        "title": {
+                            "$text": "News"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/news/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "870600172",
+                        "type": "tag",
+                        "title": {
+                            "$text": "contagious"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/870600172/contagious?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=870600172&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "870600083",
+                        "type": "tag",
+                        "title": {
+                            "$text": "FAQs"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/870600083/faqs?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=870600083&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "812054919",
+                        "type": "series",
+                        "title": {
+                            "$text": "The Coronavirus Crisis"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/series/812054919/the-coronavirus-crisis?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=812054919&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "804916759",
+                        "type": "tag",
+                        "title": {
+                            "$text": "COVID-19"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/804916759/covid-19?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=804916759&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "434975886",
+                        "type": "collection",
+                        "title": {
+                            "$text": "NPR Stories For Apple News"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=434975886&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "370956392",
+                        "type": "tag",
+                        "title": {
+                            "$text": "infection"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/370956392/infection?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=370956392&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "340702763",
+                        "type": "tag",
+                        "title": {
+                            "$text": "isolation"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/340702763/isolation?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=340702763&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "327351768",
+                        "type": "blog",
+                        "slug": "true",
+                        "title": {
+                            "$text": "Goats and Soda"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/goatsandsoda/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=327351768&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "207473547",
+                        "type": "tag",
+                        "title": {
+                            "$text": "quarantine"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/207473547/quarantine?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=207473547&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "162395868",
+                        "type": "tag",
+                        "title": {
+                            "$text": "coronavirus"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/162395868/coronavirus?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=162395868&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "126976013",
+                        "type": "tag",
+                        "title": {
+                            "$text": "protests"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/tags/126976013/protests?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=126976013&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1128",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1128&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1031",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Global Health"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/global-health/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1031&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "1007",
+                        "type": "topic",
+                        "title": {
+                            "$text": "Science"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/science/?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "byline": [
+                    {
+                        "id": "870597472",
+                        "name": {
+                            "personId": "2100208",
+                            "$text": "Allison Aubrey"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/people/2100208/allison-aubrey?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=2100208&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "870597473",
+                        "name": {
+                            "personId": "766798576",
+                            "$text": "Isabella Gomez Sarmiento"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/people/766798576/isabella-gomez-sarmiento?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=766798576&meta=inherit&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "870597474",
+                        "name": {
+                            "$text": "Pranav Baskar"
+                        }
+                    }
+                ],
+                "image": [
+                    {
+                        "id": "870312056",
+                        "type": "primary",
+                        "width": "200",
+                        "src": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_wide-2b9baa1ffda6f537c0e35eba6deb62c481f74b39.jpg?s=12",
+                        "hasBorder": "false",
+                        "title": {
+                            "$text": "panel 1"
+                        },
+                        "caption": {},
+                        "link": {
+                            "url": ""
+                        },
+                        "producer": {},
+                        "provider": {
+                            "url": "",
+                            "$text": "Malaka Gharib/NPR"
+                        },
+                        "copyright": {},
+                        "enlargement": {
+                            "src": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_wide-2b9baa1ffda6f537c0e35eba6deb62c481f74b39.jpg",
+                            "caption": {}
+                        },
+                        "crop": [
+                            {
+                                "type": "standard",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/cov_faq1-a1008cf37611dc61c851f562865e2bba998b3ddd.jpg",
+                                "height": "1123",
+                                "width": "1497"
+                            },
+                            {
+                                "type": "square",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_sq-101ecc68e8dc51ee1eaf3a30cb5c51e90acd406e.jpg",
+                                "height": "1408",
+                                "width": "1408"
+                            },
+                            {
+                                "type": "wide",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_wide-2b9baa1ffda6f537c0e35eba6deb62c481f74b39.jpg",
+                                "height": "1687",
+                                "width": "3000",
+                                "primary": "true"
+                            },
+                            {
+                                "type": "enlargement",
+                                "src": "https://media.npr.org/assets/img/2020/06/05/cov_faq1_wide-2b9baa1ffda6f537c0e35eba6deb62c481f74b39.jpg",
+                                "height": "1687",
+                                "width": "3000"
+                            }
+                        ]
+                    }
+                ],
+                "relatedLink": [
+                    {
+                        "id": "871119638",
+                        "type": "internal",
+                        "caption": {
+                            "$text": "What's A 'Superspreading Event'? And Has It Happened With COVID-19?"
+                        },
+                        "link": [
+                            {
+                                "type": "html",
+                                "$text": "https://www.npr.org/sections/goatsandsoda/2020/02/19/806960186/whats-a-super-spreading-event-and-has-it-happened-with-covid-19?ft=nprml&f=1007"
+                            },
+                            {
+                                "type": "api",
+                                "$text": "http://api.npr.org/query?id=806960186&apiKey=MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001"
+                            }
+                        ]
+                    }
+                ],
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "This is part of a series looking at pressing coronavirus questions of the week. We'd like to hear what you're curious about. Email us at goatsandsoda@npr.org with the subject line: \"Weekly Coronavirus Questions.\" "
+                        },
+                        {
+                            "num": "2",
+                            "$text": "What risks are there in attending a protest rally?"
+                        },
+                        {
+                            "num": "3",
+                            "$text": "Modelers say it's difficult to assess how the protests will influence COVID-19 infections. But it's clear that a key ingredient for transmission is present at many of these rallies: close contact.  "
+                        },
+                        {
+                            "num": "4",
+                            "$text": "The images of protesters standing shoulder to shoulder \u2014 some wearing face masks, others not \u2014 raise concerns, especially in cities with higher rates of infection. Earlier this week Washington, D.C., Mayor Muriel Bowser said she was concerned about what mass gatherings in the streets \"could mean for spikes in our coronavirus cases later.\" She urged protesters to consider their exposure and consider being tested. "
+                        },
+                        {
+                            "num": "5",
+                            "$text": "Denver Mayor Michael Hancock announced free tests for demonstrators this week. Officials in Atlanta and New York have suggested testing as well. "
+                        },
+                        {
+                            "num": "6",
+                            "$text": "\"Testing everyone that participated in demonstrations would be useful in communities where many new cases are being reported every day. These new cases indicate that transmission is occurring at a high rate in the communities,\" said Bill Miller, an epidemiologist and physician at Ohio State University. He said there are several scenarios that could give rise to the spread of the virus or even a superspreader event, where a number of people become infected. For instance, \"you might have a small number of infected people who are particularly active, moving around in the crowd. If one or more of these people are shouting often and not wearing a mask, the situation is a setup for a superspreader event,\" he said."
+                        },
+                        {
+                            "num": "7",
+                            "$text": "He said an alternative to testing everyone would be active contact tracing. \"With new cases, the tracers could ask about demonstration participation, including days and times,\" Miller said.  Then, if cases are linked to a demonstration, a call could go out to get everyone who participated in that event to be tested."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "Being outdoors seems to reduce the risk of exposure because the virus can't survive long in sunlight and there's better air circulation, but it's no guarantee against infection. So, to reduce your own risk, it's best to continue practicing social distancing and wear a face mask. There have been family-friendly events where protesters sit in a public space such as a park or library grounds, remaining 6 feet apart. "
+                        },
+                        {
+                            "num": "9",
+                            "$text": "And, of course, remember to wash your hands \u2013 or use hand sanitizer \u2013 after touching others or shared surfaces."
+                        },
+                        {
+                            "num": "10",
+                            "$text": "If I tested positive for the coronavirus, how long should I wait before going back out into the world?"
+                        },
+                        {
+                            "num": "11",
+                            "$text": "The first thing to keep in mind when it comes to COVID-19 is that all advice is preliminary \u2014 based on studies and cases experts have looked at so far. There is still a lot we don't know so guidelines and precautions may change, said Lawrence Gostin, director of the O'Neill Institute for National and Global Health Law at Georgetown University. "
+                        },
+                        {
+                            "num": "12",
+                            "$text": "That said, if someone was infected with COVID-19, here are recommended guidelines for when it's safe to start going out to the grocery store and other public settings again. "
+                        },
+                        {
+                            "num": "13",
+                            "$text": "The U.S. Centers for Disease Control and Prevention recommends waiting at least 10 days after the date symptoms started and at least three days after you've recovered to discontinue isolation. "
+                        },
+                        {
+                            "num": "14",
+                            "$text": "Which raises a question: How do you know if you're recovered? \"Recovery,\" according to the CDC, is defined as a resolution of fever, coupled with a progressive improvement in other symptoms \u2013 without reliance on fever-reducing medication. "
+                        },
+                        {
+                            "num": "15",
+                            "$text": "\"The idea is 10 days after your symptoms started, the chance of being able to actually isolate a live virus [in a patient] is so low \u2014 it's almost zero \u2013 so the chances of being infectious after that point is [also] very low,\" said Abraar Karan, a physician at Harvard Medical School. "
+                        },
+                        {
+                            "num": "16",
+                            "$text": "But you do have to be careful in assessing symptoms and determining if they have truly ended. Sometimes symptoms can be severe for weeks. Some patients may see a brief abatement and then have symptoms recur or become more intense. A doctor's input is critical."
+                        },
+                        {
+                            "num": "17",
+                            "$text": "Also, some symptoms, such as loss of sense of smell, can take weeks to resolve fully, said Dr. Davidson Hamer, a professor of global health and medicine at Boston University. "
+                        },
+                        {
+                            "num": "18",
+                            "$text": "When it comes to risk of contagion, the symptoms to be most concerned about are cough, fever and difficulty breathing, Hamer said \u2014 and those are the ones that should be completely resolved for at least three days before going out."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "\"People should not be out in public until at least three days after complete cessation of [these] symptoms,\" he said. \"If they have fever, the fever should be gone, and they should not be taking Tylenol or something to suppress that fever.\" "
+                        },
+                        {
+                            "num": "20",
+                            "$text": "The longer you can wait, the better, Gostin noted. He recommends waiting even 10 days after your symptoms are gone and then discussing with your doctor before going back to work or resuming your regular daily activities. "
+                        },
+                        {
+                            "num": "21",
+                            "$text": "If you tested negative but still feel like you're exhibiting symptoms of the virus, Gostin also said it's a good idea to retest several days later for reassurance. And if you can't get tested for any reason, they said it's a good idea to follow the same 10-day, three-day rule. "
+                        },
+                        {
+                            "num": "22",
+                            "$text": "If you're asymptomatic but tested positive for the coronavirus, the World Health Organization recommends waiting 10 days from the time of the positive test before discontinuing isolation. "
+                        },
+                        {
+                            "num": "23",
+                            "$text": "Karan said it's still possible to transmit the virus even after waiting 10 days from the day your symptoms hit \u2013 but it's pretty unlikely. \"Everyone's going to be a little different,\" he said, \"but most people fall within that 10-day window; it's considered to be relatively safe at that point.\" "
+                        },
+                        {
+                            "num": "24",
+                            "$text": "And when you do decide to go out, experts said always use precautions such as wearing a face covering and practicing good hand hygiene \u2014 washing with soap or using hand sanitizer often and using antiseptic wipes to wipe down surfaces such as door handles and grocery store carts before touching them. "
+                        },
+                        {
+                            "num": "25",
+                            "$text": "If I travel to a new city, should I quarantine or self-isolate once I get there?"
+                        },
+                        {
+                            "num": "26",
+                            "$text": "Some states and countries have implemented mandatory quarantines for any travelers coming in, so the first thing to do is check the requirements for your destination point and make proper arrangements beforehand. For example, through June 30, Hawaii is requiring that anybody entering the state or traveling between its islands \"quarantine for 14 days or the duration of their trip, whichever is shorter,\" according to a proclamation from Gov. David Ige's office. "
+                        },
+                        {
+                            "num": "27",
+                            "$text": "If you're not entering an area that requires a quarantine period \u2014 or would still like some guidance to keep in mind when going to a new city \u2014 here are some of the most important risks to weigh."
+                        },
+                        {
+                            "num": "28",
+                            "$text": "All experts we spoke to, as well as the CDC traveling guidelines, agree that one of the main factors to consider when traveling during the pandemic is the rate of transmission in the area you're coming from and the rate in the area where you're headed. If you're coming from a place with a relatively high number of new cases each day, and you're not self-isolating, you may be infected and not yet realize it."
+                        },
+                        {
+                            "num": "29",
+                            "$text": "One precaution to avoid triggering any infections in your destination then is to isolate at home as much as possible for two weeks before departure and practice social distancing measures \u2014 such as wearing a mask and staying 6 feet away from others \u2014 anytime you do go out in public spaces. That way you lessen the risk of unknowingly bringing the virus with you into your destination. "
+                        },
+                        {
+                            "num": "30",
+                            "$text": "\"I think that [even] if somebody has been sheltered at home, has been really cautious and is very unlikely to be infected when they enter a new place, then that new place might [still] recommend that they be quarantined,\" said Boston University's Hamer. \"But honestly, their risk of transmitting disease is probably close to zero because they haven't had any exposure [in their local community].\""
+                        },
+                        {
+                            "num": "31",
+                            "$text": "But there is another way you could become exposed \u2014 your method of travel. If you drive alone with minimal stops, there's probably a lower chance that you have been exposed to a symptomatic individual than if you board a crowded bus or plane, said Karan of Harvard Medical School. Read more about the risks of driving versus flying here. "
+                        },
+                        {
+                            "num": "32",
+                            "$text": "Self-isolation measures in a new location also depend on where you bed down once you arrive. If you're staying with friends or family, then you should discuss what precautions they have been taking before your arrival and make sure you're not exposing yourself to additional risk in their home."
+                        },
+                        {
+                            "num": "33",
+                            "$text": "\"When we move from one place to another, it would be ideal to self-isolate for 14 days. But if not, try for at least five days,\" said Gostin, the global health specialist at Georgetown. \"And when you do begin to relax measures and go back out into the world, take very special care. Be even more rigorous with your hand-washing, disinfecting, mask usage and social distancing.\" [Copyright 2020 NPR]"
+                        }
+                    ]
+                },
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "<em>This is part of a series looking at pressing coronavirus questions of the week. We'd like to hear what you're curious about. Email us at </em><a href=\"mailto:goatsandsoda@npr.org\"><strong><em>goatsandsoda@npr.org</em></strong></a><em> with the subject line: \"Weekly Coronavirus Questions.\"</em> "
+                        },
+                        {
+                            "num": "2",
+                            "$text": "<strong>What risks are there in attending a protest rally?</strong>"
+                        },
+                        {
+                            "num": "3",
+                            "$text": "Modelers say it's difficult to assess how the protests will influence COVID-19 infections. But it's clear that a key ingredient for transmission is present at many of these rallies: close contact.  "
+                        },
+                        {
+                            "num": "4",
+                            "$text": "The images of protesters standing shoulder to shoulder \u2014 some wearing face masks, others not \u2014 raise concerns, especially in cities with higher rates of infection. Earlier this week Washington, D.C., Mayor Muriel Bowser said she was concerned about what mass gatherings in the streets \"could mean for spikes in our coronavirus cases later.\" She urged protesters to consider their exposure and consider being tested. "
+                        },
+                        {
+                            "num": "5",
+                            "$text": "Denver Mayor Michael Hancock <a href=\"https://www.denvergov.org/content/denvergov/en/mayors-office/newsroom/2020/city-officials-respond-to-saturdays-protests.html\">announced free tests for demonstrators this week</a>. Officials in Atlanta and New York have suggested testing as well. "
+                        },
+                        {
+                            "num": "6",
+                            "$text": "\"Testing everyone that participated in demonstrations would be useful in communities where many new cases are being reported every day. These new cases indicate that transmission is occurring at a high rate in the communities,\" said <a href=\"https://cph.osu.edu/people/wmiller\">Bill Miller</a>, an epidemiologist and physician at Ohio State University. He said there are several scenarios that could give rise to the spread of the virus or even a superspreader event, where a number of people become infected. For instance, \"you might have a small number of infected people who are particularly active, moving around in the crowd. If one or more of these people are shouting often and not wearing a mask, the situation is a setup for a superspreader event,\" he said."
+                        },
+                        {
+                            "num": "7",
+                            "$text": "He said an alternative to testing everyone would be active contact tracing. \"With new cases, the tracers could ask about demonstration participation, including days and times,\" Miller said.  Then, if cases are linked to a demonstration, a call could go out to get everyone who participated in that event to be tested."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "Being outdoors seems to reduce the risk of exposure because the virus can't survive long in sunlight and there's better air circulation, but it's no guarantee against infection. So, to reduce your own risk, it's best to continue practicing social distancing and wear a face mask. There have been family-friendly events where protesters sit in a public space such as a park or library grounds, remaining 6 feet apart. "
+                        },
+                        {
+                            "num": "9",
+                            "$text": "And, of course, remember to wash your hands \u2013 or use hand sanitizer \u2013 after touching others or shared surfaces."
+                        },
+                        {
+                            "num": "10",
+                            "$text": "<strong>If I tested positive for the coronavirus, how long should I wait before going back out into the world?</strong>"
+                        },
+                        {
+                            "num": "11",
+                            "$text": "The first thing to keep in mind when it comes to COVID-19 is that all advice is preliminary \u2014 based on studies and cases experts have looked at so far. There is still a lot we don't know so guidelines and precautions may change, said <a href=\"https://oneill.law.georgetown.edu/faculty/Lawrence-Gostin/\">Lawrence Gostin</a>, director of the O'Neill Institute for National and Global Health Law at Georgetown University. "
+                        },
+                        {
+                            "num": "12",
+                            "$text": "That said, if someone was infected with COVID-19, here are recommended guidelines for when it's safe to start going out to the grocery store and other public settings again. "
+                        },
+                        {
+                            "num": "13",
+                            "$text": "The U.S. <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/community/strategy-discontinue-isolation.html\">Centers for Disease Control and Prevention recommends</a> waiting at least 10 days after the date symptoms started and at least three days after you've recovered to discontinue isolation. "
+                        },
+                        {
+                            "num": "14",
+                            "$text": "Which raises a question: How do you know if you're recovered? \"Recovery,\" according to the CDC, is defined as a resolution of fever, coupled with a progressive improvement in other symptoms \u2013 without reliance on fever-reducing medication. "
+                        },
+                        {
+                            "num": "15",
+                            "$text": "\"The idea is 10 days after your symptoms started, the chance of being able to actually isolate a live virus [in a patient] is so low \u2014 it's almost zero \u2013 so the chances of being infectious after that point is [also] very low,\" said <a href=\"https://scholar.harvard.edu/abraarkaran/bio\">Abraar Karan</a>, a physician at Harvard Medical School. "
+                        },
+                        {
+                            "num": "16",
+                            "$text": "But you do have to be careful in assessing symptoms and determining if they have truly ended. Sometimes symptoms can be severe for weeks. Some patients may see a brief abatement and then have symptoms recur or become more intense. A doctor's input is critical."
+                        },
+                        {
+                            "num": "17",
+                            "$text": "Also, some symptoms, such as loss of sense of smell, can take weeks to resolve fully, said <a href=\"https://www.bu.edu/sph/profile/davidson-hamer/\">Dr. Davidson Hamer</a>, a professor of global health and medicine at Boston University. "
+                        },
+                        {
+                            "num": "18",
+                            "$text": "When it comes to risk of contagion, the symptoms to be most concerned about are cough, fever and difficulty breathing, Hamer said \u2014 and those are the ones that should be completely resolved for at least three days before going out."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "\"People should not be out in public until at least three days after complete cessation of [these] symptoms,\" he said. \"If they have fever, the fever should be gone, and they should not be taking Tylenol or something to suppress that fever.\" "
+                        },
+                        {
+                            "num": "20",
+                            "$text": "The longer you can wait, the better, Gostin noted. He recommends waiting even 10 days after your symptoms are gone and then discussing with your doctor before going back to work or resuming your regular daily activities. "
+                        },
+                        {
+                            "num": "21",
+                            "$text": "If you tested negative but still feel like you're exhibiting symptoms of the virus, Gostin also said it's a good idea to retest several days later for reassurance. And if you can't get tested<strong> </strong>for any reason, they said it's a good idea to follow the same 10-day, three-day rule. "
+                        },
+                        {
+                            "num": "22",
+                            "$text": "If you're asymptomatic but tested positive for the coronavirus, the <a href=\"https://www.who.int/publications/i/item/clinical-management-of-covid-19\">World Health Organization</a> recommends waiting 10 days from the time of the positive test before discontinuing isolation. "
+                        },
+                        {
+                            "num": "23",
+                            "$text": "Karan said it's still possible to transmit the virus even after waiting 10 days from the day your symptoms hit \u2013 but it's pretty unlikely. \"Everyone's going to be a little different,\" he said, \"but most people fall within that 10-day window; it's considered to be relatively safe at that point.\" "
+                        },
+                        {
+                            "num": "24",
+                            "$text": "And when you do decide to go out, experts said always use precautions such as wearing a face covering and practicing good hand hygiene \u2014 washing with soap or using hand sanitizer often and using antiseptic wipes to wipe down surfaces such as door handles and grocery store carts before touching them. "
+                        },
+                        {
+                            "num": "25",
+                            "$text": "<strong>If I travel to a new city, should I quarantine or self-isolate once I get there?</strong>"
+                        },
+                        {
+                            "num": "26",
+                            "$text": "Some states and countries have implemented mandatory quarantines for any travelers coming in, so the first thing to do is <a href=\"https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html\">check the requirements</a> for your destination point and make proper arrangements beforehand. For example, through June 30, Hawaii is <a href=\"https://hidot.hawaii.gov/coronavirus/\">requiring</a> that anybody entering the state or traveling between its islands \"quarantine for 14 days or the duration of their trip, whichever is shorter,\" according to a <a href=\"https://governor.hawaii.gov/wp-content/uploads/2020/05/2005088-ATG_Eighth-Supplementary-Proclamation-for-COVID-19-distribution-signed.pdf\">proclamation</a> from Gov. David Ige's office. "
+                        },
+                        {
+                            "num": "27",
+                            "$text": "If you're not entering an area that requires a quarantine period \u2014 or would still like some guidance to keep in mind when going to a new city \u2014 here are some of the most important risks to weigh."
+                        },
+                        {
+                            "num": "28",
+                            "$text": "All experts we spoke to, as well as the <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html\">CDC traveling guidelines</a>, agree that one of the main factors to consider when traveling during the pandemic is the rate of transmission in the area you're coming from and the rate in the area where you're headed. If you're coming from a place with a relatively high number of new cases each day, and you're not self-isolating, you may be infected and not yet realize it."
+                        },
+                        {
+                            "num": "29",
+                            "$text": "One precaution to avoid triggering any infections in your destination then is to isolate at home as much as possible for two weeks before departure and practice social distancing measures \u2014 such as wearing a mask and staying 6 feet away from others \u2014 anytime you do go out in public spaces. That way you lessen the risk of unknowingly bringing the virus with you into your destination. "
+                        },
+                        {
+                            "num": "30",
+                            "$text": "\"I think that [even] if somebody has been sheltered at home, has been really cautious and is very unlikely to be infected when they enter a new place, then that new place might [still] recommend that they be quarantined,\" said Boston University's Hamer. \"But honestly, their risk of transmitting disease is probably close to zero because they haven't had any exposure [in their local community].\""
+                        },
+                        {
+                            "num": "31",
+                            "$text": "But there is another way you could become exposed \u2014 your method of travel. If you drive alone with minimal stops, there's probably a lower chance that you have been exposed to a symptomatic individual than if you board a crowded bus or plane, said Karan of Harvard Medical School. Read more about the risks of driving versus flying <a href=\"https://www.npr.org/sections/goatsandsoda/2020/05/30/865340134/coronavirus-faqs-is-it-safer-to-fly-or-drive-is-air-conditioning-a-threat\">here</a>. "
+                        },
+                        {
+                            "num": "32",
+                            "$text": "Self-isolation measures in a new location also depend on where you bed down once you arrive. If you're staying with friends or family, then you should discuss what precautions they have been taking before your arrival and make sure you're not exposing yourself to additional risk in their home."
+                        },
+                        {
+                            "num": "33",
+                            "$text": "\"When we move from one place to another, it would be ideal to self-isolate for 14 days. But if not, try for at least five days,\" said Gostin, the global health specialist at Georgetown. \"And when you do begin to relax measures and go back out into the world, take very special care. Be even more rigorous with your hand-washing, disinfecting, mask usage and social distancing.\"  <div class=\"fullattribution\">Copyright 2020 NPR. To see more, visit <a href=\"https://www.npr.org\">NPR</a>.<img src=\"https://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Coronavirus+FAQs%3A+How+To+Stay+Safe+While+Protesting%2C+When+To+Go+Out+After+Recovery&utme=8(APIKey)9(MDAxNzgzOTYyMDEyMTUwMDkyMDM1ZWUwYw001)\"/></div>"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
